@@ -1,5 +1,5 @@
 Object prison
-face prison.x11
+face prison.111
 type 66
 no_pick 1
 no_pass 1
@@ -11,7 +11,7 @@ end
 More
 Object prison_2
 name prison
-face prison.x11
+face prison.211
 type 66
 no_pick 1
 no_pass 1
@@ -22,7 +22,7 @@ end
 More
 Object prison_3
 name prison
-face prison.x11
+face prison.311
 type 66
 no_pick 1
 y 1
@@ -32,7 +32,7 @@ end
 More
 Object prison_4
 name prison
-face prison.x11
+face prison.411
 type 66
 no_pick 1
 x 1

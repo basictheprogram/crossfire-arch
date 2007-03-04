@@ -7,12 +7,12 @@ sleep 1
 Wis 30
 Con 48
 Pow 76
-face Cwyvern.x71
+face Cwyvern.171
 anim
-Cwyvern.x71
-Cwyvern.x72
-Cwyvern.x31
-Cwyvern.x32
+Cwyvern.171
+Cwyvern.172
+Cwyvern.131
+Cwyvern.132
 facings 2
 mina
 level 30
@@ -43,13 +43,13 @@ end
 More
 Object Cwyvern_2
 name wyvern of chaos
-face Cwyvern.x71
+face Cwyvern.271
 anim
 facings 2
-Cwyvern.x71
-Cwyvern.x72
-Cwyvern.x31
-Cwyvern.x32
+Cwyvern.271
+Cwyvern.272
+Cwyvern.231
+Cwyvern.232
 mina
 monster 1
 x 1

@@ -1,7 +1,7 @@
 Object longship
 name longship
 type 66
-face longship.x11
+face longship.111
 color_fg brown
 no_pick 1
 move_allow walk
@@ -15,7 +15,7 @@ Object longship_2
 name longship
 type 66
 color_fg brown
-face longship.x11
+face longship.211
 x 1
 no_pick 1
 move_allow walk

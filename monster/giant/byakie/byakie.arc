@@ -1,13 +1,13 @@
 Object byakie
 randomitems byakie
-face byakie.x11
+face byakie.111
 race chaos
 monster 1
 sleep 1
 Wis 21
 anim
-byakie.x11
-byakie.x12
+byakie.111
+byakie.112
 mina
 level 25
 Con 20
@@ -50,10 +50,10 @@ end
 More
 Object byakie_2
 name byakie
-face byakie.x11
+face byakie.211
 anim
-byakie.x11
-byakie.x12
+byakie.211
+byakie.212
 mina
 monster 1
 alive 1
@@ -64,10 +64,10 @@ end
 More
 Object byakie_3
 name byakie
-face byakie.x11
+face byakie.311
 anim
-byakie.x11
-byakie.x12
+byakie.311
+byakie.312
 mina
 monster 1
 alive 1
@@ -78,10 +78,10 @@ end
 More
 Object byakie_4
 name byakie
-face byakie.x11
+face byakie.411
 anim
-byakie.x11
-byakie.x12
+byakie.411
+byakie.412
 mina
 monster 1
 alive 1

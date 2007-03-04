@@ -1,5 +1,5 @@
 Object gardengnome
-race gnome
+race dwarf
 name gnome
 randomitems gnome
 alive 1

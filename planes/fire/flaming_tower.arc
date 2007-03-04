@@ -1,20 +1,20 @@
 Object flaming_tower
 name fire tower
 type 66
-face flamingtower.x11
+face flamingtower.111
 anim
-flamingtower.x11
-flamingtower.x12
-flamingtower.x13
-flamingtower.x11
-flamingtower.x14
-flamingtower.x13
-flamingtower.x12
-flamingtower.x14
-flamingtower.x11
-flamingtower.x13
-flamingtower.x14
-flamingtower.x12
+flamingtower.111
+flamingtower.112
+flamingtower.113
+flamingtower.111
+flamingtower.114
+flamingtower.113
+flamingtower.112
+flamingtower.114
+flamingtower.111
+flamingtower.113
+flamingtower.114
+flamingtower.112
 mina
 is_animated 1
 speed 0.5
@@ -28,20 +28,20 @@ More
 Object flaming_tower_2
 name fire tower
 type 66
-face flamingtower.x11
+face flamingtower.211
 anim
-flamingtower.x11
-flamingtower.x12
-flamingtower.x13
-flamingtower.x11
-flamingtower.x14
-flamingtower.x13
-flamingtower.x12
-flamingtower.x14
-flamingtower.x11
-flamingtower.x13
-flamingtower.x14
-flamingtower.x12
+flamingtower.211
+flamingtower.212
+flamingtower.213
+flamingtower.211
+flamingtower.214
+flamingtower.213
+flamingtower.212
+flamingtower.214
+flamingtower.211
+flamingtower.213
+flamingtower.214
+flamingtower.212
 mina
 is_animated 1
 speed 0.5

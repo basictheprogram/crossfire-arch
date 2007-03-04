@@ -2,12 +2,12 @@ Object medium_demon
 name demon
 race demon
 randomitems devil
-face mdemon.x11
+face mdemon.111
 color_fg red
 anim
 facings 1
-mdemon.x11
-mdemon.x12
+mdemon.111
+mdemon.112
 mina
 resist_magic 50
 resist_godpower 50
@@ -51,12 +51,12 @@ end
 More
 Object medium_demon_2
 name demon
-face mdemon.x11
+face mdemon.211
 color_fg red
 anim
 facings 1
-mdemon.x11
-mdemon.x12
+mdemon.211
+mdemon.212
 mina
 monster 1
 alive 1
@@ -66,12 +66,12 @@ end
 More
 Object medium_demon_3
 name demon
-face mdemon.x11
+face mdemon.311
 color_fg green
 anim
 facings 1
-mdemon.x11
-mdemon.x12
+mdemon.311
+mdemon.312
 mina
 monster 1
 alive 1
@@ -81,12 +81,12 @@ end
 More
 Object medium_demon_4
 name demon
-face mdemon.x11
+face mdemon.411
 color_fg red
 anim
 facings 1
-mdemon.x11
-mdemon.x12
+mdemon.411
+mdemon.412
 mina
 monster 1
 alive 1

@@ -1,5 +1,5 @@
 Object gnome
-race gnome
+race dwarf
 name cunning gnome
 randomitems gnome
 alive 1

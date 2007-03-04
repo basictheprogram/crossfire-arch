@@ -1,6 +1,6 @@
 Object pentagram_111
 name pentagram
-face pentagram.x11
+face pentagram.111
 magicmap black
 speed 0
 type 41
@@ -13,7 +13,7 @@ end
 More
 Object pentagram_112
 name pentagram
-face pentagram.x11
+face pentagram.112
 magicmap black
 speed 0
 type 41
@@ -27,7 +27,7 @@ end
 More
 Object pentagram_113
 name pentagram
-face pentagram.x11
+face pentagram.113
 magicmap black
 speed 0
 type 41
@@ -41,7 +41,7 @@ end
 More
 Object pentagram_121
 name pentagram
-face pentagram.x11
+face pentagram.121
 magicmap black
 speed 0
 type 41
@@ -55,7 +55,7 @@ end
 More
 Object pentagram_122
 name pentagram
-face pentagram.x11
+face pentagram.122
 magicmap black
 speed 0
 type 41
@@ -70,7 +70,7 @@ end
 More
 Object pentagram_123
 name pentagram
-face pentagram.x11
+face pentagram.123
 magicmap black
 speed 0
 type 41
@@ -85,7 +85,7 @@ end
 More
 Object pentagram_131
 name pentagram
-face pentagram.x11
+face pentagram.131
 magicmap black
 speed 0
 type 41
@@ -99,7 +99,7 @@ end
 More
 Object pentagram_132
 name pentagram
-face pentagram.x11
+face pentagram.132
 x 1
 magicmap black
 speed 0
@@ -114,7 +114,7 @@ end
 More
 Object pentagram_133
 name pentagram
-face pentagram.x11
+face pentagram.133
 magicmap black
 speed 0
 type 41
