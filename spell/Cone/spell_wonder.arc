@@ -1,5 +1,4 @@
 Object spell_wonder
-anim_suffix spellcasting
 name wonder
 name_pl wonder
 face spell_sorcery.111

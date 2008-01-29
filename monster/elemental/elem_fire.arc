@@ -8,20 +8,21 @@ elem_fire.111
 elem_fire.112
 mina
 monster 1
-move_type walk fly_low
 alive 1
 resist_fire 100
 attacktype 4
 resist_confusion -100
 resist_blind 100
 glow_radius 1
-ac 4
-wc 13
+ac 2
+wc 10
 dam 20
-hp 175
-maxhp 175
-level 9
+hp 200
+maxhp 200
+level 8
 speed -0.25
-exp 3000
+exp 250
 weight 200
+move_type fly_low
+editable 1
 end

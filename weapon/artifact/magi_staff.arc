@@ -9,8 +9,7 @@ magi_staff.112
 magi_staff.113
 magi_staff.112
 mina
-anim_speed 5
-client_anim_random 1
+speed .2
 material 16
 weapontype 8
 resist_magic 30
@@ -23,6 +22,7 @@ wc 5
 magic 5
 weight 4500
 value 500000
+editable 5120
 magicmap black
 name_pl Staves of the Magi
 client_type 100

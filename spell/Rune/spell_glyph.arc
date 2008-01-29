@@ -1,5 +1,4 @@
 Object spell_glyph
-anim_suffix spellcasting
 name glyph
 name_pl glyph
 face glyph.111

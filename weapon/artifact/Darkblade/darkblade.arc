@@ -18,8 +18,7 @@ darkblade.113
 darkblade.112
 darkblade.111
 mina
-anim_speed 5
-client_anim_random 1
+speed 0.2
 Cha -1
 Con 2
 hp 1
@@ -32,6 +31,7 @@ last_sp 7
 dam 10
 magic 4
 value 143000
+editable 5120
 magicmap black
 name_pl Darkblades
 client_type 100

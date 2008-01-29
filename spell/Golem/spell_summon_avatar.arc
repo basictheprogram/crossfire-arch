@@ -1,5 +1,4 @@
 Object spell_summon_avatar
-anim_suffix spellcasting
 name summon avatar
 name_pl summon avatar
 face spell_praying.111

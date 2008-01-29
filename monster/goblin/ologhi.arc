@@ -7,7 +7,6 @@ ologhi.111
 ologhi.112
 mina
 monster 1
-move_type walk
 sleep 1
 no_pick 1
 alive 1
@@ -33,5 +32,6 @@ carrying 20000
 weight 140000
 randomitems throw_stnd
 is_animated 1
+editable 1
 magicmap brown
 end

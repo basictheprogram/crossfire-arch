@@ -12,6 +12,7 @@ sp 70
 wc 1
 value 17000
 no_strength 0
+editable 5120
 attacktype 1
 magicmap brown
 name_pl elven bows

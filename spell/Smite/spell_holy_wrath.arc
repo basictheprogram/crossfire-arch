@@ -1,5 +1,4 @@
 Object spell_holy_wrath
-anim_suffix spellcasting
 name holy wrath
 name_pl holy wrath
 face spell_praying.111

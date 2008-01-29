@@ -10,6 +10,7 @@ materialname gold
 value 10000
 weight 10000
 identified 1
+editable 2048
 name_pl gold bars
 client_type 2005
 end

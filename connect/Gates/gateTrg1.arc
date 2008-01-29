@@ -15,11 +15,12 @@ gate_1.116
 gate_1.117
 mina
 is_animated 0
-move_block all
+no_pass 1
 blocksview 1
 wc 6
 maxsp 0
 dam 1
+editable 16
 visibility 50
 maxhp 20
 hp 20

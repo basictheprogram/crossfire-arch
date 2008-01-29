@@ -10,6 +10,7 @@ value 10000
 weight 200
 sp 8
 slaying potionwis
+editable 2048
 identified 1
 name_pl Improve Wisdom Bonus
 client_type 1016

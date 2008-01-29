@@ -10,7 +10,6 @@ deathshead.113
 deathshead.114
 mina
 monster 1
-move_type walk fly_low
 sleep 1
 Wis 40
 Pow 100
@@ -18,6 +17,7 @@ Con 100
 no_pick 1
 alive 1
 undead 1
+move_type fly_low
 exp 400000
 level 130
 attacktype 17
@@ -55,6 +55,7 @@ weight 1500
 can_cast_spell 1
 can_see_in_dark 1
 attack_movement 1
+editable 1
 glow_radius -5
 magicmap grey
 end

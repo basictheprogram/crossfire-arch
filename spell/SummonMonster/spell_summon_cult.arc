@@ -1,5 +1,4 @@
 Object spell_summon_cult_monsters
-anim_suffix spellcasting
 name summon cult monsters
 name_pl summon cult monsters
 face spell_praying.111

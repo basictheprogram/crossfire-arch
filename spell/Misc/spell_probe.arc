@@ -1,5 +1,4 @@
 Object spell_probe
-anim_suffix spellcasting
 name probe
 name_pl probe
 face spell_sorcery.111

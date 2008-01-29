@@ -14,7 +14,6 @@ s_mastif.173
 s_mastif.172
 mina
 monster 1
-move_type walk
 sleep 1
 Wis 20
 alive 1
@@ -41,6 +40,7 @@ resist_deplete 100
 resist_blind 100
 attacktype 32912
 weight 1000
+editable 1
 run_away 5
 attack_movement 3
 color_fg black

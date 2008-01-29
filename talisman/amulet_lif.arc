@@ -7,6 +7,7 @@ material 12
 weight 600
 value 20000
 lifesave 1
+editable 6144
 magicmap yellow
 nrof 1
 client_type 381

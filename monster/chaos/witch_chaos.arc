@@ -6,7 +6,6 @@ animation witch_chaos
 color_fg blue
 randomitems witch_chaos
 monster 1
-move_type walk fly_low
 alive 1
 resist_ghosthit 100
 resist_poison 100
@@ -39,4 +38,6 @@ maxsp 100
 Pow 10
 Wis 10
 Con 10
+move_type fly_low
+editable 1
 end

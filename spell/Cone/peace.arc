@@ -1,7 +1,7 @@
 Object peace
 name peace
 other_arch peacemaker
-face highangel.118
+face archangel.118
 move_on walk fly_low
 wc -90
 move_type fly_low
@@ -10,6 +10,7 @@ subtype 7
 no_pick 1
 speed 1
 no_pick 1
+editable 0
 end
 #
 # the peace cone above drops these peacemakers,
@@ -18,7 +19,7 @@ Object peacemaker
 name peacemaker
 face fireball.111
 invisible 1
-type 59
+type 59 
 speed 1
 move_type fly_low
 no_pick 1

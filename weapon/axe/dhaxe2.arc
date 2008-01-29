@@ -8,6 +8,7 @@ material 18
 dam 10
 weight 9660
 value 520
+editable 1024
 can_impale 1
 attacktype 1
 weapontype 3

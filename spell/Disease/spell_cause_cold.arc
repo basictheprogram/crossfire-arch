@@ -1,5 +1,4 @@
 Object spell_cause_cold
-anim_suffix spellcasting
 name cause cold
 name_pl cause cold
 type 101

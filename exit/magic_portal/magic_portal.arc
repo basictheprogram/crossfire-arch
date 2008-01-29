@@ -4,14 +4,14 @@ face magic_portal.111
 slaying /city/city
 hp 15
 sp 19
-anim_speed 3
-client_anim_random 1
+speed 0.3
 type 66
 no_pick 1
-anim
+anim 
 magic_portal.111
 magic_portal.112
 mina
+editable 2
 client_type 25011
 end
 Object magic_portal
@@ -87,5 +87,6 @@ mina
 is_used_up 1
 food 59
 changing 1
+editable 2
 client_type 25011
 end

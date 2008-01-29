@@ -21,5 +21,6 @@ speed 1
 move_type fly_low
 no_pick 1
 attacktype 4
+editable 0
 color_fg black
 end

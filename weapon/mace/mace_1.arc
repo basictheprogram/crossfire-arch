@@ -8,6 +8,7 @@ weapontype 7
 dam 7
 weight 16000
 value 35
+editable 1024
 attacktype 1
 magicmap grey
 name_pl maces

@@ -26,10 +26,10 @@ color_fg black
 no_pick 1
 attacktype 4
 dam 75
+editable 8
 wc -30
 lifesave 1
 generator 1
 other_arch fire_elemental
 maxsp 5000
-generator_limit 5
 end

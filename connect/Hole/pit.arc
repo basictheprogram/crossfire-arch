@@ -20,6 +20,7 @@ mina
 is_animated 0
 wc 10
 maxsp 0
+editable 18
 visibility 50
 magicmap black
 end
@@ -46,6 +47,7 @@ is_animated 0
 move_on walk
 wc 0
 maxsp 1
+editable 18
 visibility 50
 magicmap black
 end

@@ -6,10 +6,10 @@ brazier.112
 brazier.113
 brazier.114
 mina
-anim_speed 5
-client_anim_random 1
+speed -0.2
 glow_radius 3
 no_pick 1
-move_block all
+no_pass 1
+editable 128
 color_fg yellow
 end

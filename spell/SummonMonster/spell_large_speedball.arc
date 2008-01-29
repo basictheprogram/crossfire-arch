@@ -1,5 +1,4 @@
 Object spell_large_speedball
-anim_suffix spellcasting
 name large speedball
 name_pl large speedball
 face spell_evocation.111

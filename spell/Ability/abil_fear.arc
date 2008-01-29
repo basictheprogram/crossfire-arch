@@ -1,5 +1,4 @@
 Object abil_fear
-anim_suffix spellcasting
 name fear ability
 name_pl fear ability
 level 4

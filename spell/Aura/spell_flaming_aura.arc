@@ -1,5 +1,4 @@
 Object spell_flaming_aura
-anim_suffix spellcasting
 name flaming aura
 name_pl flaming aura
 type 101

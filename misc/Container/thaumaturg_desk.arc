@@ -9,6 +9,7 @@ container 800000
 is_cauldron 1
 Str 0
 value 18000
+editable 128
 color_fg black
 name_pl thaumaturgist's desks
 client_type 51

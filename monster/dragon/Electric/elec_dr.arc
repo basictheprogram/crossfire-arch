@@ -1,21 +1,20 @@
 Object big_elec
 name electric dragon
 race dragon
-randomitems big_elec
+randomitems acdc
 monster 1
-move_type walk
 sleep 1
 Wis 20
-face elec_dr.x11
+face elec_dr.111
 anim
-elec_dr.x11
-elec_dr.x12
-elec_dr.x11
-elec_dr.x12
-elec_dr.x11
-elec_dr.x12
+elec_dr.111
+elec_dr.112
+elec_dr.111
+elec_dr.112
+elec_dr.111
+elec_dr.112
 mina
-level 27
+level 18
 Con 11
 Pow 32
 can_cast_spell 1
@@ -38,23 +37,23 @@ alive 1
 no_pick 1
 speed -0.4
 weight 200000
+editable 1
 run_away 3
 magicmap blue
 end
 More
 Object big_elec_2
 name electric dragon
-face elec_dr.x11
+face elec_dr.211
 anim
-elec_dr.x11
-elec_dr.x12
-elec_dr.x11
-elec_dr.x12
-elec_dr.x11
-elec_dr.x12
+elec_dr.211
+elec_dr.212
+elec_dr.211
+elec_dr.212
+elec_dr.211
+elec_dr.212
 mina
 monster 1
-move_type walk
 alive 1
 x 1
 weight 4000000
@@ -63,17 +62,16 @@ end
 More
 Object big_elec_3
 name electric dragon
-face elec_dr.x11
+face elec_dr.311
 anim
-elec_dr.x11
-elec_dr.x12
-elec_dr.x11
-elec_dr.x12
-elec_dr.x11
-elec_dr.x12
+elec_dr.311
+elec_dr.312
+elec_dr.311
+elec_dr.312
+elec_dr.311
+elec_dr.312
 mina
 monster 1
-move_type walk
 alive 1
 y 1
 weight 4000000
@@ -82,17 +80,16 @@ end
 More
 Object big_elec_4
 name electric dragon
-face elec_dr.x11
+face elec_dr.411
 anim
-elec_dr.x11
-elec_dr.x12
-elec_dr.x11
-elec_dr.x12
-elec_dr.x11
-elec_dr.x12
+elec_dr.411
+elec_dr.412
+elec_dr.411
+elec_dr.412
+elec_dr.411
+elec_dr.412
 mina
 monster 1
-move_type walk
 alive 1
 x 1
 y 1
@@ -102,17 +99,16 @@ end
 More
 Object big_elec_5
 name electric dragon
-face elec_dr.x11
+face elec_dr.511
 anim
-elec_dr.x11
-elec_dr.x12
-elec_dr.x11
-elec_dr.x12
-elec_dr.x11
-elec_dr.x12
+elec_dr.511
+elec_dr.512
+elec_dr.511
+elec_dr.512
+elec_dr.511
+elec_dr.512
 mina
 monster 1
-move_type walk
 alive 1
 y 2
 weight 4000000
@@ -121,29 +117,19 @@ end
 More
 Object big_elec_6
 name electric dragon
-face elec_dr.x11
+face elec_dr.611
 anim
-elec_dr.x11
-elec_dr.x12
-elec_dr.x11
-elec_dr.x12
-elec_dr.x11
-elec_dr.x12
+elec_dr.611
+elec_dr.612
+elec_dr.611
+elec_dr.612
+elec_dr.611
+elec_dr.612
 mina
 monster 1
-move_type walk
 alive 1
 x 1
 y 2
 weight 4000000
 magicmap blue
-end
-
-Object big_elec_spellcasting
-anim
-elec_dr_spellcasting.x11
-elec_dr_spellcasting.x12
-elec_dr_spellcasting.x13
-facings 1
-mina
 end

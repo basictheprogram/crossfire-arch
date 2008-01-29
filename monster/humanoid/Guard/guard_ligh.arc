@@ -6,7 +6,6 @@ color_fg brown
 speed 0.06
 alive 1
 monster 1
-move_type walk
 sleep 1
 Wis 5
 see_invisible 1
@@ -30,4 +29,5 @@ stand_still 1
 unaggressive 1
 Str 25
 can_cast_spell 1
+editable 1
 end

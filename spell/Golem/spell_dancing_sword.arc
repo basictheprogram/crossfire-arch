@@ -1,5 +1,4 @@
 Object spell_dancing_sword
-anim_suffix spellcasting
 name dancing sword
 name_pl dancing sword
 face spell_summoner.111

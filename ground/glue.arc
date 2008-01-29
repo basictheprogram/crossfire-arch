@@ -1,7 +1,6 @@
 Object glue
 face glue.111
-anim_speed 15
-client_anim_random 1
+speed -0.06
 anim
 glue.111
 glue.112
@@ -10,6 +9,7 @@ no_pick 1
 move_slow walk
 move_slow_penalty 4
 material 32
+editable 8
 visibility 50
 magicmap khaki
 end

@@ -6,6 +6,7 @@ hp 1
 material 18
 value 50
 weight 50000
+editable 132
 identified 1
 randomitems chest
 magicmap khaki

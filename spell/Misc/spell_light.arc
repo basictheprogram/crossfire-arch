@@ -1,5 +1,4 @@
 Object spell_light
-anim_suffix spellcasting
 name light
 name_pl light
 face spell_praying.111

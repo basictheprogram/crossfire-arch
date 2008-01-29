@@ -9,14 +9,13 @@ lich.112
 lich.113
 mina
 monster 1
-move_type walk
 sleep 1
 Wis 17
 Pow 43
 undead 1
 hp 1000
 maxhp 1000
-level 25
+level 15
 resist_physical 50
 resist_magic 50
 resist_blind 90
@@ -27,9 +26,12 @@ ac -3
 no_pick 1
 alive 1
 maxsp 40
+editable 1
 will_apply 2
 pick_up 24
+can_apply 25
 can_use_scroll 1
+can_use_wand 1
 can_cast_spell 1
 can_use_shield 1
 can_use_armour 1

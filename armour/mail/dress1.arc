@@ -13,5 +13,6 @@ ac 1
 weight 10000
 value 10000
 material 128
+editable 1024
 body_torso -1
 end

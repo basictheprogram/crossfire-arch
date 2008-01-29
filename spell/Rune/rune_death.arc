@@ -16,6 +16,7 @@ is_animated 0
 invisible 1
 no_pick 1
 move_on walk
+editable 32
 attacktype 131072
 dam 400
 Cha 20

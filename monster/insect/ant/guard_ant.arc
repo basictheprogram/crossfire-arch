@@ -7,7 +7,6 @@ sleep 1
 Wis 5
 Con 10
 monster 1
-move_type walk
 sleep 1
 alive 1
 no_pick 1
@@ -29,4 +28,5 @@ speed -0.2
 stand_still 1
 unaggressive 1
 weight 15000
+editable 1
 end

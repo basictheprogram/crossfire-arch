@@ -1,5 +1,4 @@
 Object spell_haste
-anim_suffix spellcasting
 name haste
 name_pl haste
 level 12

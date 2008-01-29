@@ -1,7 +1,3 @@
-# Acid spehres are sort of odd creatures - they are really
-# only a danger if the player is not careful and runs into
-# them - they otherwise move slowly and are easily killed.
-# But they do a lot of damage if a player does run into one.
 Object acid_sphere
 race slime
 name acid sphere
@@ -15,15 +11,14 @@ acidsphere.113
 acidsphere.112
 mina
 monster 1
-move_type walk
 sleep 1
 Wis 5
 alive 1
 ac 1
 wc 1
-dam 50
+dam 100
 weight 1
-level 4
+level 5
 resist_fire 100
 resist_electricity 100
 resist_cold 100
@@ -44,6 +39,7 @@ maxhp 1
 speed 0.01
 anim_speed 1
 exp 100
+editable 1
 magicmap green
 one_hit 1
 end

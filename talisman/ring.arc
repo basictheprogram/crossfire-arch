@@ -16,6 +16,7 @@ value 500
 weight 20
 type 70
 material 2
+editable 2048
 nrof 1
 name_pl rings
 client_type 391

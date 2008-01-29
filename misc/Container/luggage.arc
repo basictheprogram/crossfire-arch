@@ -11,14 +11,14 @@ luggage.116
 luggage.117
 luggage.118
 mina
-anim_speed 2
-client_anim_random 1
+speed 0.5
 type 122
 material 2
 value 100000
 weight 20000
 container 500000
 Str 50
+editable 128
 identified 1
 magicmap brown
 name_pl The Luggages

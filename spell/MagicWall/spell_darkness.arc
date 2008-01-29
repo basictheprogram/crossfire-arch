@@ -1,5 +1,4 @@
 Object spell_darkness
-anim_suffix spellcasting
 name darkness
 name_pl darkness
 face spell_praying.111
@@ -19,5 +18,5 @@ duration_modifier 2
 maxgrace 50
 range 2
 range_modifier 13
-move_block all
+no_pass 1
 end

@@ -1,5 +1,4 @@
 Object spell_summon_fire_elemental
-anim_suffix spellcasting
 name summon fire elemental
 name_pl summon fire elemental
 face spell_summoner.111

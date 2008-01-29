@@ -1,5 +1,4 @@
 Object spell_restoration
-anim_suffix spellcasting
 name restoration
 name_pl restoration
 face spell_praying.111

@@ -10,6 +10,7 @@ materialname tin
 value 50
 weight 10000
 identified 1
+editable 2048
 name_pl tin bars
 client_type 2005
 end

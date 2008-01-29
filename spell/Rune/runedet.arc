@@ -8,4 +8,5 @@ move_type fly_low
 is_used_up 1
 no_pick 1
 food 10
+editable 32
 end

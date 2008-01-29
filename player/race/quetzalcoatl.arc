@@ -63,6 +63,7 @@ Con 6
 Wis -8
 Int -8
 Pow 6
+editable 0
 body_range 1
 body_arm 2
 body_neck 1
@@ -71,8 +72,5 @@ body_finger 2
 body_shoulder 1
 body_wrist 2
 body_waist 1
-maxhp 30
-maxsp 30
-maxgrace 30
 end
 

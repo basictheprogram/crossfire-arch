@@ -1,5 +1,4 @@
 Object spell_charisma
-anim_suffix spellcasting
 name charisma
 name_pl charisma
 face spell_sorcery.111

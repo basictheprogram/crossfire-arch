@@ -1,5 +1,4 @@
 Object spell_rage
-anim_suffix spellcasting
 name rage
 name_pl rage
 face spell_praying.111

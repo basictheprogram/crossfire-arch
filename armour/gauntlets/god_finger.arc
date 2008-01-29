@@ -9,8 +9,7 @@ anim
 god_finger.111
 god_finger.112
 mina
-anim_speed 10
-client_anim_random 1
+speed .1
 Str 2
 Dex -1
 magicmap orange
@@ -20,6 +19,7 @@ make_invisible 1
 value 120000
 material 2
 weight 1800
+editable 5120
 body_hand -2
 item_power 2
 end

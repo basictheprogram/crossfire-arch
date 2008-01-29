@@ -1,5 +1,4 @@
 Object spell_cure_blindness
-anim_suffix spellcasting
 name cure blindness
 name_pl cure blindness
 face spell_praying.111

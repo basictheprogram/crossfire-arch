@@ -1,4 +1,4 @@
-Object robe2
+Object robe2 
 name robe
 name_pl robes
 client_type 256
@@ -12,5 +12,6 @@ nrof 1
 weight 10000
 value 9
 material 128
+editable 1024
 body_torso -1
 end

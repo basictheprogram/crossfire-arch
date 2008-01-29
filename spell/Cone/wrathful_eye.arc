@@ -14,4 +14,5 @@ speed 1.0
 move_type fly_low
 no_pick 1
 glow_radius 2
+editable 0
 end

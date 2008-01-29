@@ -1,7 +1,7 @@
 Object wizard_class
 race human
 name wizard
-randomitems wizard_class_items
+randomitems wizard
 face wizard.171
 color_fg black
 anim
@@ -20,4 +20,5 @@ Wis 0
 Int 3
 Pow 3
 Cha 0
+editable 0
 end

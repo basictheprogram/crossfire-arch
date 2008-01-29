@@ -1,5 +1,4 @@
 Object sword_3
-anim_suffix sword
 nrof 1
 name two handed sword
 name_pl two handed swords
@@ -10,6 +9,7 @@ material 2
 dam 14
 weight 25000
 value 53
+editable 1024
 attacktype 1
 weapontype 1
 magicmap white

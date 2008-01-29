@@ -17,6 +17,7 @@ move_type fly_low
 no_pick 1
 speed 0.2
 wc -30
+editable 0
 end
 #
 Object poison_fog_sign

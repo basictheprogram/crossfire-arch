@@ -7,4 +7,5 @@ color_fg green
 move_slow walk
 move_slow_penalty 1
 is_hilly 1
+editable 8
 end

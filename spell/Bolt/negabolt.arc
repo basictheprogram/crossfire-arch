@@ -22,4 +22,5 @@ speed 1
 glow_radius 2
 no_pick 1
 reflecting 1
+editable 0
 end

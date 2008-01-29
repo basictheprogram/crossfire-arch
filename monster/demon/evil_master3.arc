@@ -41,11 +41,11 @@ weight 180000
 run_away 3
 pick_up 24
 will_apply 2
+can_apply 25
 alive 1
 no_pick 1
 is_animated 1
 monster 1
-move_type walk
 undead 1
 see_invisible 1
 unaggressive 1
@@ -55,6 +55,7 @@ can_see_in_dark 1
 sleep 1
 can_use_skill 1
 can_use_rod 1
+editable 1
 body_finger 2
 body_skill 1
 body_arm 2

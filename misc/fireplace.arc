@@ -5,11 +5,11 @@ fireplace.111
 fireplace.112
 fireplace.113
 mina
-anim_speed 5
-client_anim_random 1
+speed -0.2
 glow_radius 2
 no_pick 1
-move_block all
+no_pass 1
 material 66
+editable 128
 color_fg black
 end

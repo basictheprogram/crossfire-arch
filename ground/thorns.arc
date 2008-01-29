@@ -17,5 +17,6 @@ move_slow_penalty 3
 attacktype 1
 speed 0.2
 dam 3
+editable 8
 move_block boat swim
 end

@@ -10,8 +10,7 @@ wiz_hat.111
 wiz_hat.112
 wiz_hat.113
 mina
-anim_speed 10
-client_anim_random 1
+speed 0.1
 magicmap black
 last_sp 12
 ac 1
@@ -25,6 +24,7 @@ resist_paralyze 30
 weight 1000
 value 50000
 material 128
+editable 5120
 body_head -1
 item_power 10
 end

@@ -8,8 +8,7 @@ dagger_f.112
 dagger_f.113
 dagger_f.114
 mina
-anim_speed 5
-client_anim_random 1
+speed .2
 Cha 4
 dam 2
 luck 3
@@ -22,6 +21,7 @@ materialname glacium
 value 50000
 weight 2000
 last_sp 5
+editable 5120
 magicmap grey
 client_type 100
 body_arm -1

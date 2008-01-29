@@ -8,22 +8,23 @@ xan.111
 xan.112
 mina
 monster 1
-move_type walk fly_low
 sleep 1
 can_see_in_dark 1
 Wis 6
+move_type fly_low
 alive 1
 is_turnable 1
 no_pick 1
-ac 15
-hp 25
-maxhp 25
+ac 10
+hp 1
+maxhp 1
 wc 1
-level 3
+level 5
 dam 1
 attacktype 1025
 speed 0.5
-exp 35
+exp 20
 weight 7
+editable 1
 magicmap brown
 end

@@ -11,15 +11,14 @@ cold_drag.172
 cold_drag.131
 cold_drag.132
 mina
-level 7
+level 8
 monster 1
-move_type walk fly_low
 sleep 1
 Wis 15
 see_invisible 1
 no_pick 1
 alive 1
-exp 1000
+exp 1500
 ac 5
 wc 7
 dam 15
@@ -34,7 +33,9 @@ resist_cold 100
 resist_blind 50
 resist_magic 30
 speed -0.07
+move_type fly_low
 weight 70000
 run_away 20
 attack_movement 1
+editable 1
 end

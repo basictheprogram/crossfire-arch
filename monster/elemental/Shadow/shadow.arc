@@ -8,7 +8,6 @@ shadow.111
 shadow.112
 mina
 monster 1
-move_type walk
 sleep 1
 Wis 20
 alive 1
@@ -40,6 +39,7 @@ can_use_skill 1
 sp 20
 maxsp 30
 Pow 5
+editable 1
 run_away 5
 attack_movement 3
 color_fg black

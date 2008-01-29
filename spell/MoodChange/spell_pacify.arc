@@ -1,5 +1,4 @@
 Object spell_pacify
-anim_suffix spellcasting
 name pacify
 name_pl pacify
 face spell_praying.111

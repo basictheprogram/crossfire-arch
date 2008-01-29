@@ -52,6 +52,7 @@ Con 6
 Wis -8
 Int -3
 Pow 5
+editable 0
 # can't use bows anymore with this, so let him use cloaks,
 # bracers, and girdles.
 body_range 1
@@ -62,9 +63,6 @@ body_finger 2
 body_shoulder 1
 body_wrist 2
 body_waist 1
-maxhp 30
-maxsp 30
-maxgrace 30
 end
 Object dragon_skin_force
 name dragon skin

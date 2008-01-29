@@ -11,5 +11,6 @@ speed 1
 move_type fly_low
 no_pick 1
 attacktype 2097152
+editable 0
 magicmap yellow
 end

@@ -1,4 +1,5 @@
 Object bee
+move_type fly_low
 race insect
 face bee.111
 color_fg dark_orange
@@ -7,7 +8,6 @@ bee.111
 bee.112
 mina
 monster 1
-move_type walk fly_low
 sleep 1
 Wis 10
 no_pick 1
@@ -22,4 +22,5 @@ level 1
 weight 20
 resist_physical 30
 
+editable 1
 end

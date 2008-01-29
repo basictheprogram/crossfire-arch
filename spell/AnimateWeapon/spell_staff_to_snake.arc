@@ -1,5 +1,4 @@
 Object spell_staff_to_snake
-anim_suffix spellcasting
 name staff to snake
 name_pl staff to snake
 type 101

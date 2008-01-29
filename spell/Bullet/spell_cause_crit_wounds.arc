@@ -1,5 +1,4 @@
 Object spell_cause_critical_wounds
-anim_suffix spellcasting
 name cause critical wounds
 name_pl cause critical wounds
 face spell_praying.111

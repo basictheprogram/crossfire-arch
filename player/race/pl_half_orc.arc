@@ -40,6 +40,7 @@ can_use_armour 1
 can_use_weapon 1
 can_see_in_dark 1
 path_repelled 65536
+editable 0
 Str 2
 Dex 1
 Con 2
@@ -62,7 +63,4 @@ body_wrist 2
 body_waist 1
 body_leg 2
 can_use_shield 1
-maxhp 30
-maxsp 30
-maxgrace 30
 end

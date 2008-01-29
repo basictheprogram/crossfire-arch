@@ -1,5 +1,4 @@
 Object b_lsword
-anim_suffix sword
 nrof 1
 name light sword
 last_sp 8
@@ -10,6 +9,7 @@ materialname bronze
 dam 3
 weight 11500
 value 11
+editable 1024
 attacktype 1
 weapontype 1
 magicmap grey

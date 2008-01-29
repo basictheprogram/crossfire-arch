@@ -1,7 +1,7 @@
 Object generate_postman
 race human
 other_arch postman
-name mail box
+name generator
 generator 1
 face postman_gen.111
 color_fg red
@@ -15,5 +15,5 @@ level 1
 sp 1
 maxsp 1
 weight 90000
-generator_limit 5
+editable 1
 end

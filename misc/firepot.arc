@@ -6,11 +6,11 @@ firepot.112
 firepot.113
 firepot.114
 mina
-anim_speed 3
-client_anim_random 1
+speed -0.30
 no_pick 1
-move_block all
+no_pass 1
 glow_radius 3
 material 2
+editable 128
 color_fg red
 end

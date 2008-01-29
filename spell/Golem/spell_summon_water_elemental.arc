@@ -1,5 +1,4 @@
 Object spell_summon_water_elemental
-anim_suffix spellcasting
 name summon water elemental
 name_pl summon water elemental
 face spell_summoner.111

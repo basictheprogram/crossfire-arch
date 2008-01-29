@@ -10,6 +10,7 @@ materialname bronze
 value 675
 weight 10000
 identified 1
+editable 2048
 name_pl bronze bars
 client_type 2005
 end

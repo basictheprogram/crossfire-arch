@@ -9,6 +9,7 @@ material 18
 dam 13
 weight 25000
 value 44
+editable 1024
 attacktype 1
 magicmap black
 name_pl large morningstars

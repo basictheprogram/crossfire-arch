@@ -6,4 +6,5 @@ msg
 You are filled with a desire to fight - but
 with honor, not with filthy magics.
 endmsg
+editable 0
 end

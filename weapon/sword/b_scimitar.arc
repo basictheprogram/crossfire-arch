@@ -9,6 +9,7 @@ materialname bronze
 dam 4
 weight 15000
 value 10
+editable 1024
 can_impale 1
 can_cut 1
 can_parry 1

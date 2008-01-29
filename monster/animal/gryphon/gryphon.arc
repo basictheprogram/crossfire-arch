@@ -3,7 +3,6 @@ race animal
 name Dark Gryphon
 randomitems gryphon
 monster 1
-move_type walk
 sleep 1
 Wis 15
 face gryphon.x31
@@ -22,7 +21,7 @@ gryphon.x74
 gryphon.x73
 gryphon.x72
 mina
-level 29
+level 18
 attacktype 128
 Dex 30
 Str 80
@@ -49,7 +48,9 @@ no_pick 1
 speed 0.5
 anim_speed 0.4
 weight 400000
+can_apply 25
 can_use_scroll 1
+can_use_wand 1
 can_use_rod 1
 can_cast_spell 1
 can_use_shield 1
@@ -57,6 +58,7 @@ can_use_armour 1
 can_use_weapon 1
 can_use_ring 1
 attack_movement 1
+editable 1
 magicmap brown
 body_torso 1
 body_head 1
@@ -89,7 +91,6 @@ gryphon.x73
 gryphon.x72
 mina
 monster 1
-move_type walk
 alive 1
 anim_speed 1.0
 x 1
@@ -139,7 +140,6 @@ gryphon.x73
 gryphon.x72
 mina
 monster 1
-move_type walk
 alive 1
 anim_speed 1.0
 y 1
@@ -165,7 +165,6 @@ gryphon.x73
 gryphon.x72
 mina
 monster 1
-move_type walk
 alive 1
 anim_speed 1.0
 x 1
@@ -192,7 +191,6 @@ gryphon.x73
 gryphon.x72
 mina
 monster 1
-move_type walk
 alive 1
 anim_speed 1.0
 x 2
@@ -219,7 +217,6 @@ gryphon.x73
 gryphon.x72
 mina
 monster 1
-move_type walk
 alive 1
 anim_speed 1.0
 y 2
@@ -245,7 +242,6 @@ gryphon.x73
 gryphon.x72
 mina
 monster 1
-move_type walk
 alive 1
 anim_speed 1.0
 x 1
@@ -272,7 +268,6 @@ gryphon.x73
 gryphon.x72
 mina
 monster 1
-move_type walk
 alive 1
 anim_speed 1.0
 x 2

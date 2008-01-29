@@ -1,7 +1,7 @@
 Object cleric_class
 race cleric
 name cleric
-randomitems cleric_class_items
+randomitems cleric
 face cleric.151
 anim
 cleric.111
@@ -36,5 +36,6 @@ Wis 2
 Cha 1
 Int -2
 Pow 1
+editable 0
 magicmap blue
 end

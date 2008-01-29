@@ -1,5 +1,4 @@
 Object spell_daylight
-anim_suffix spellcasting
 name daylight
 name_pl daylight
 face spell_praying.111

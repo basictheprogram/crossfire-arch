@@ -1,8 +1,8 @@
 Object guide_wizard
 name guide to Wizardry
 msg
-o There are four separate magic skills:
-  evocation, pyromancy, sorcery, and
+o There are four separate magic skills: 
+  evocation, pyromancy, sorcery, and 
   summoning. Each skill allows a different
   set of spells to be learned and used.
 o To advance in the powerful art of magic
@@ -40,5 +40,6 @@ subtype 2
 skill literacy
 material 1
 weight 4000
+editable 128
 magicmap green
 end

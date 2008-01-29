@@ -2,7 +2,8 @@ Object bank
 face bank.x11
 type 66
 no_pick 1
-move_block all
+no_pass 1
+editable 2
 visibility 100
 magicmap white
 end
@@ -12,7 +13,7 @@ name bank
 face bank.x11
 type 66
 no_pick 1
-move_block all
+no_pass 1
 x 1
 visibility 100
 magicmap white

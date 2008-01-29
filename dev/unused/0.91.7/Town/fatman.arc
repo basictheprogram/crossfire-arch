@@ -1,5 +1,5 @@
-Object fatman
-name Large man
+Object fatman 
+name Large man 
 face fatman.111
 sp 10
 maxsp 10
@@ -28,4 +28,5 @@ can_use_ring 1
 can_use_armour 1
 can_use_weapon 1
 can_use_scroll 1
+editable 1
 end

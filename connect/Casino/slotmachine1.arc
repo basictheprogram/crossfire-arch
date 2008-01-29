@@ -12,6 +12,7 @@ mina
 is_animated 0
 no_pick 1
 move_on walk
+editable 48
 visibility 50
 client_type 25041
 end

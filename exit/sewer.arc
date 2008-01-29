@@ -4,6 +4,7 @@ face sewer_access.111
 magicmap brown
 type 66
 no_pick 1
+editable 2
 visibility 100
 msg
 You open the sewer access
@@ -18,6 +19,7 @@ face sewer_access.112
 magicmap brown
 type 66
 no_pick 1
+editable 2
 visibility 100
 msg
 You open the sewer access

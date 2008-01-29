@@ -10,6 +10,7 @@ blocksview 1
 is_hilly 1
 move_slow walk
 move_slow_penalty 5
+editable 8
 smoothlevel 100
 is_floor 1
 smoothface mountain1.111 mountain_S.111

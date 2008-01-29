@@ -9,6 +9,7 @@ resist_physical 1
 nrof 1
 type 99
 material 8
+editable 1024
 magicmap brown
 body_foot -2
 gen_sp_armour 1

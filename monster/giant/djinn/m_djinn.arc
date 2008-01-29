@@ -2,13 +2,12 @@ Object minor_djinn
 race faerie
 name minor djinn
 randomitems minor_djinn
-face djinn.x31
+face djinn.131
 monster 1
-move_type walk
 sleep 1
 Wis 15
 animation djinn
-level 40
+level 15
 Con 10
 Int 10
 Pow 10
@@ -20,14 +19,17 @@ resist_acid 100
 resist_ghosthit 100
 resist_poison 100
 resist_fear 100
+
 resist_drain -100
 resist_weaponmagic -100
 resist_chaos -100
+
 resist_physical 50
 resist_magic 50
 resist_fire 50
 resist_electricity 50
 resist_cold 50
+
 attack_movement 7
 see_invisible 1
 exp 70000
@@ -41,6 +43,7 @@ no_pick 1
 speed -0.35
 weight 300000
 run_away 5
+editable 1
 attacktype 3
 can_use_weapon 1
 can_use_shield 1
@@ -48,6 +51,7 @@ can_use_armour 1
 can_use_rod 1
 can_use_horn 1
 can_use_ring 1
+can_use_wand 1
 can_use_scroll 1
 body_torso 1
 body_head 1
@@ -63,10 +67,9 @@ end
 More
 Object minor_djinn_2
 name minor djinn
-face djinn.x31
+face djinn.231
 animation djinn_2
 monster 1
-move_type walk
 alive 1
 no_pick 1
 y 1

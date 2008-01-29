@@ -12,6 +12,7 @@ resist_drain 50
 resist_physical 50
 magic 3
 value 150000
+editable 5120
 attacktype 1
 weapontype 1
 magicmap grey

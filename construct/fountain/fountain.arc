@@ -8,8 +8,9 @@ fountain.112
 fountain.113
 mina
 move_on walk
+speed 0.50
 magicmap grey
+editable 2
 no_pick 1
-anim_speed 2
 client_anim_random 1
 end

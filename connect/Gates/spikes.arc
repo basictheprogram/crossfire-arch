@@ -18,11 +18,12 @@ spikes.112
 spikes.111
 mina
 is_animated 0
-move_block all
+no_pass 1
 wc 6
 maxsp 0
 dam 8
 ac 1
+editable 16
 visibility 50
 magicmap black
 end
@@ -49,6 +50,7 @@ wc 0
 dam 8
 maxsp 1
 ac 1
+editable 16
 visibility 50
 magicmap black
 end
@@ -71,11 +73,13 @@ spikes.112
 spikes.111
 mina
 is_animated 0
-move_block all
+no_pass 1
 wc 8
 maxsp 0
 dam 8
 ac 1
+pass_thru 1
+editable 16
 visibility 50
 magicmap black
 end
@@ -102,6 +106,7 @@ wc 0
 dam 8
 maxsp 1
 ac 1
+editable 16
 visibility 50
 magicmap black
 end

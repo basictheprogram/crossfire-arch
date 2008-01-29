@@ -1,6 +1,6 @@
 Object halfling_player
 name halfling
-randomitems halfling_player_items
+randomitems halfling_player
 face halfling.151
 msg
 Halflings are another sub-race of humankind,
@@ -46,6 +46,7 @@ Str -4
 Dex 3
 Con 4
 Wis -3
+editable 0
 magicmap blue
 # Arguably, halfings should have a body_small_torso or something.
 body_range 1
@@ -61,7 +62,4 @@ body_hand 2
 body_wrist 2
 body_waist 1
 body_leg 2
-maxhp 30
-maxsp 30
-maxgrace 30
 end

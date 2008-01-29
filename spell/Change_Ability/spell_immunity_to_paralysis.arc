@@ -1,6 +1,5 @@
 # Obsolete spell - here for backward compatibility
 Object spell_immunity_to_paralysis
-anim_suffix spellcasting
 name immunity to paralysis
 name_pl immunity to paralysis
 level 16

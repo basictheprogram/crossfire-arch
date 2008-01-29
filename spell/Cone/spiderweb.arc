@@ -13,6 +13,7 @@ subtype 7
 no_pick 1
 speed 1
 no_pick 1
+editable 0
 end
 #
 Object spider_web2
@@ -23,6 +24,5 @@ no_pick 1
 move_slow walk
 move_slow_penalty 7
 material 128
-anim_speed 10
-client_anim_random 1
+editable 8
 end

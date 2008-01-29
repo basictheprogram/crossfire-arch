@@ -1,5 +1,4 @@
 Object spell_create_bomb
-anim_suffix spellcasting
 name create bomb
 name_pl create bomb
 face spell_pyromancy.111

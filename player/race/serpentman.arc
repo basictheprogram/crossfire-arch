@@ -59,6 +59,7 @@ Con 4
 Wis -2
 Int -2
 Cha -4
+editable 0
 body_range 1
 body_arm 2
 body_torso 1
@@ -70,7 +71,4 @@ body_wrist 4
 body_finger 3
 body_waist 1
 body_leg 2
-maxhp 30
-maxsp 30
-maxgrace 30
 end

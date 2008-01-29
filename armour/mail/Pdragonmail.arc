@@ -9,8 +9,7 @@ anim
 Pdragonmail.111
 Pdragonmail.112
 mina
-anim_speed 5
-client_anim_random 1
+speed 0.2
 last_sp 13
 ac 8
 material 256
@@ -21,6 +20,7 @@ exp 1
 resist_fire 50
 resist_electricity 30
 magic 4
+editable 5120
 identified 1
 magicmap black
 body_torso -1

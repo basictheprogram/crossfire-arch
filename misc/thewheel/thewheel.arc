@@ -2,7 +2,8 @@ Object thewheel_short_static
 face thewheel_short.111
 name the wheel
 no_pick 1
-move_block all
+no_pass 1
+editable 128
 color_fg brown
 end
 
@@ -10,7 +11,8 @@ Object thewheel_tall_static
 face thewheel_tall.x11
 name the wheel
 no_pick 1
-move_block all
+no_pass 1
+editable 128
 color_fg brown
 end
 More
@@ -19,6 +21,7 @@ y 1
 face thewheel_tall.x11
 name the wheel
 no_pick 1
+editable 128
 color_fg brown
 end
 
@@ -27,9 +30,8 @@ face thewheel_short.111
 name the wheel
 is_animated 1
 no_pick 1
-move_block all
-anim_speed 10
-client_anim_random 1
+no_pass 1
+speed -0.1
 anim
 thewheel_short.111
 thewheel_short.111
@@ -50,6 +52,7 @@ thewheel_short.111
 thewheel_short.111
 thewheel_short.111
 mina
+editable 128
 color_fg brown
 end
 
@@ -59,9 +62,8 @@ face thewheel_tall.x11
 name the wheel
 is_animated 1
 no_pick 1
-move_block all
-anim_speed 10
-client_anim_random 1
+no_pass 1
+speed -0.1
 anim
 thewheel_tall.x11
 thewheel_tall.x11
@@ -82,6 +84,7 @@ thewheel_tall.x11
 thewheel_tall.x11
 thewheel_tall.x11
 mina
+editable 128
 color_fg brown
 end
 More
@@ -91,8 +94,7 @@ face thewheel_tall.x11
 name the wheel
 is_animated 1
 no_pick 1
-anim_speed 10
-client_anim_random 1
+speed -0.1
 anim
 thewheel_tall.x11
 thewheel_tall.x11
@@ -113,5 +115,6 @@ thewheel_tall.x11
 thewheel_tall.x11
 thewheel_tall.x11
 mina
+editable 128
 color_fg brown
 end

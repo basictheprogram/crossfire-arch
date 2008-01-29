@@ -1,5 +1,4 @@
 Object spell_slow
-anim_suffix spellcasting
 name slow
 name_pl slow
 face spell_sorcery.111

@@ -1,5 +1,4 @@
 Object spell_word_of_recall
-anim_suffix spellcasting
 name word of recall
 name_pl word of recall
 face spell_praying.111

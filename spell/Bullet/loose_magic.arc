@@ -12,6 +12,7 @@ manabolt.113
 manabolt.114
 mina
 color_fg black
+color_bg khaki
 speed 1
 range 3
 duration 3
@@ -19,4 +20,5 @@ move_type fly_low
 wc -30
 no_pick 1
 attacktype 2
+editable 0
 end

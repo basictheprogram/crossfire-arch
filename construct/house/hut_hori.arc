@@ -3,6 +3,7 @@ type 66
 name hut
 face hut_hori.x11
 no_pick 1
+editable 2
 visibility 100
 magicmap black
 end
@@ -12,6 +13,7 @@ type 66
 name hut
 face hut_hori.x11
 no_pick 1
+editable 2
 visibility 100
 magicmap black
 x 1

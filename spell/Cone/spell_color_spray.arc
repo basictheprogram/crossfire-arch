@@ -1,5 +1,4 @@
 Object spell_color_spray
-anim_suffix spellcasting
 name color spray
 name_pl color spray
 face spell_sorcery.111

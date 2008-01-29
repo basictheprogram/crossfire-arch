@@ -11,17 +11,18 @@ para_earth.113
 para_earth.112
 mina
 monster 1
-move_type walk
 alive 1
 ac 5
 wc 9
 dam 20
-hp 100
-maxhp 100
-speed -0.15
-exp 1500
+hp 200
+maxhp 200
+speed -0.08
+exp 210
 weight 100000
-level 7
+level 6
 resist_cold 100
+
 attacktype 16
+editable 1
 end

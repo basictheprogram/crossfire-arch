@@ -33,12 +33,12 @@ alive 1
 speed -0.3
 weight 3000000
 monster 1
-move_type walk
 sleep 1
 Wis 15
 level 12
 run_away 3
 can_use_weapon 1
+editable 1
 body_arm 2
 end
 More
@@ -57,7 +57,6 @@ ent.x13
 ent.x12
 mina
 monster 1
-move_type walk
 alive 1
 x 1
 weight 3000000
@@ -78,7 +77,6 @@ ent.x13
 ent.x12
 mina
 monster 1
-move_type walk
 alive 1
 y 1
 weight 3000000
@@ -99,7 +97,6 @@ ent.x13
 ent.x12
 mina
 monster 1
-move_type walk
 alive 1
 x 1
 y 1

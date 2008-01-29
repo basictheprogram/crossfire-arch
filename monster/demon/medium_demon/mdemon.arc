@@ -2,12 +2,12 @@ Object medium_demon
 name demon
 race demon
 randomitems devil
-face mdemon.x11
+face mdemon.111
 color_fg red
 anim
 facings 1
-mdemon.x11
-mdemon.x12
+mdemon.111
+mdemon.112
 mina
 resist_magic 50
 resist_godpower 50
@@ -32,12 +32,11 @@ sp 30
 maxsp 50
 hp 2000
 maxhp 2000
-level 20
+level 12
 alive 1
 speed 0.3
 weight 300000
 monster 1
-move_type walk
 Wis 13
 alive 1
 run_away 3
@@ -45,21 +44,21 @@ attack_movement 5
 can_use_weapon 1
 can_use_skill 1
 can_cast_spell 1
+editable 1
 body_skill 1
 body_arm 2
 end
 More
 Object medium_demon_2
 name demon
-face mdemon.x11
+face mdemon.211
 color_fg red
 anim
 facings 1
-mdemon.x11
-mdemon.x12
+mdemon.211
+mdemon.212
 mina
 monster 1
-move_type walk
 alive 1
 x 1
 weight 300000
@@ -67,15 +66,14 @@ end
 More
 Object medium_demon_3
 name demon
-face mdemon.x11
+face mdemon.311
 color_fg green
 anim
 facings 1
-mdemon.x11
-mdemon.x12
+mdemon.311
+mdemon.312
 mina
 monster 1
-move_type walk
 alive 1
 y 1
 weight 300000
@@ -83,15 +81,14 @@ end
 More
 Object medium_demon_4
 name demon
-face mdemon.x11
+face mdemon.411
 color_fg red
 anim
 facings 1
-mdemon.x11
-mdemon.x12
+mdemon.411
+mdemon.412
 mina
 monster 1
-move_type walk
 alive 1
 y 1
 x 1

@@ -1,5 +1,4 @@
 Object spell_protection_from_cold
-anim_suffix spellcasting
 name protection from cold
 name_pl protection from cold
 face spell_praying.111

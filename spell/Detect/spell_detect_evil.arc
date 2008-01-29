@@ -1,5 +1,4 @@
 Object spell_detect_evil
-anim_suffix spellcasting
 name detect evil
 name_pl detect evil
 face spell_praying.111

@@ -10,6 +10,7 @@ weight 3000
 material 512
 materialname mercury
 identified 1
+editable 2048
 magicmap grey
 name_pl mercuries
 client_type 642
@@ -22,8 +23,7 @@ anim
 fix_mercury.111
 fix_mercury.112
 mina
-anim_speed 2
-client_anim_random 1
+speed 0.5
 material 512
 materialname mercury
 value 400
@@ -32,6 +32,7 @@ resist_acid 100
 type 73
 nrof 1
 weight 8000
+editable 2048
 magicmap grey
 name_pl blocks
 client_type 642

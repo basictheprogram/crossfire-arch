@@ -8,6 +8,7 @@ materialname cherry
 value 2400
 container 150000
 weight 160000
+editable 128
 identified 1
 name_pl dressers
 client_type 51
@@ -19,6 +20,7 @@ type 121
 no_pick 1
 no_drop 1
 identified 1
+editable 0
 magicmap brown
 end
 Object dresser2_cw
@@ -31,6 +33,7 @@ materialname cherry
 value 2400
 container 150000
 weight 160000
+editable 128
 identified 1
 name_pl dressers
 client_type 51
@@ -42,5 +45,6 @@ type 121
 no_pick 1
 no_drop 1
 identified 1
+editable 0
 magicmap brown
 end

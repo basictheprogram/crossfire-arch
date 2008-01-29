@@ -10,5 +10,6 @@ speed 0.5
 move_type fly_low
 weight 20
 nrof 1
+editable 0
 color_fg green
 end

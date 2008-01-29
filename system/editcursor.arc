@@ -11,4 +11,5 @@ wizardmask.131
 wizardmask.151
 wizardmask.171
 mina
+editable 0
 end

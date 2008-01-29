@@ -31,4 +31,5 @@ move_type fly_low
 no_pick 1
 dam 5
 visibility 100
+editable 8
 end

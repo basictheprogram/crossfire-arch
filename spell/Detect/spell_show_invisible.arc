@@ -1,5 +1,4 @@
 Object spell_show_invisible
-anim_suffix spellcasting
 name show invisible
 name_pl show invisible
 face spell_praying.111

@@ -1,5 +1,4 @@
 Object spell_spark_shower
-anim_suffix spellcasting
 name spark shower
 name_pl spark shower
 level 1

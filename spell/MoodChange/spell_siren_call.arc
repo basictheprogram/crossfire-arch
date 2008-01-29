@@ -1,5 +1,4 @@
 Object spell_siren_call
-anim_suffix spellcasting
 name siren call
 name_pl siren call
 face spell_praying.111

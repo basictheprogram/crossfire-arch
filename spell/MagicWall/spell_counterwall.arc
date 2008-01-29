@@ -1,5 +1,4 @@
 Object spell_counterwall
-anim_suffix spellcasting
 name counterwall
 name_pl counterwall
 face spell_summoner.111
@@ -28,5 +27,5 @@ affected area.  Counterwalls can be useful to
 constantly neutralize spell effects.  The
 counterwall itself has a finite duration.
 endmsg
-move_block all
+no_pass 1
 end

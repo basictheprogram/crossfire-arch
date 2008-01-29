@@ -1,5 +1,4 @@
 Object spell_rune_of_frost
-anim_suffix spellcasting
 name rune of frost
 name_pl rune of frost
 face spell_evocation.111

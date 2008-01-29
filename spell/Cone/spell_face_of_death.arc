@@ -1,5 +1,4 @@
 Object spell_face_of_death
-anim_suffix spellcasting
 name face of death
 name_pl face of death
 face spell_praying.111

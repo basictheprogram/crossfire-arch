@@ -1,5 +1,4 @@
 Object b_sicklesword
-anim_suffix sword
 nrof 1
 last_sp 4
 type 15
@@ -9,6 +8,7 @@ materialname bronze
 dam 4
 weight 8600
 value 330
+editable 1024
 attacktype 1
 weapontype 1
 magicmap white

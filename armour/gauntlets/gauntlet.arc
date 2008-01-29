@@ -9,6 +9,7 @@ value 25
 nrof 1
 material 2
 weight 1800
+editable 1024
 magicmap grey
 body_hand -2
 end

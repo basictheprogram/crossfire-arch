@@ -1,10 +1,9 @@
 Object destroying_angel
 name Retributioner
 race angel
-face retributioner.x11
+face retributioner.111
 randomitems angel
 monster 1
-move_type walk fly_low
 level 27
 hp 4000
 maxhp 4000
@@ -26,11 +25,14 @@ resist_magic 80
 resist_holyword 80
 resist_blind 100
 weight 75000
+move_type fly_low
 run_away 18
 will_apply 2
 pick_up 24
+can_apply 25
 can_use_scroll 1
 can_use_skill 1
+can_use_wand 1
 can_use_rod 1
 can_cast_spell 1
 can_use_bow 1
@@ -38,6 +40,7 @@ can_use_shield 1
 can_use_armour 1
 can_use_weapon 1
 can_use_ring 1
+editable 1
 color_fg black
 body_skill 1
 body_torso 1
@@ -54,9 +57,8 @@ end
 More
 Object destroying_angel_2
 name Retributioner
-face retributioner.x11
+face retributioner.211
 monster 1
-move_type walk fly_low
 alive 1
 no_pick 1
 x 1
@@ -65,9 +67,8 @@ end
 More
 Object destroying_angel_3
 name Retributioner
-face retributioner.x11
+face retributioner.311
 monster 1
-move_type walk fly_low
 alive 1
 no_pick 1
 y 1
@@ -76,9 +77,8 @@ end
 More
 Object destroying_angel_4
 name Retributioner
-face retributioner.x11
+face retributioner.411
 monster 1
-move_type walk fly_low
 alive 1
 no_pick 1
 y 1
@@ -88,9 +88,8 @@ end
 More
 Object destroying_angel_5
 name Retributioner
-face retributioner.x11
+face retributioner.511
 monster 1
-move_type walk fly_low
 alive 1
 no_pick 1
 y 2
@@ -100,9 +99,8 @@ end
 More
 Object destroying_angel_6
 name Retributioner
-face retributioner.x11
+face retributioner.611
 monster 1
-move_type walk fly_low
 alive 1
 no_pick 1
 y 2

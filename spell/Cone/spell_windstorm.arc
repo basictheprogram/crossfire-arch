@@ -1,5 +1,4 @@
 Object spell_windstorm
-anim_suffix spellcasting
 name windstorm
 name_pl windstorm
 face spell_praying.111

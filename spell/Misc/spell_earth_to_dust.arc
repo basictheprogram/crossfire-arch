@@ -1,5 +1,4 @@
 Object spell_earth_to_dust
-anim_suffix spellcasting
 name earth to dust
 name_pl earth to dust
 face spell_summoner.111

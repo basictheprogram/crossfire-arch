@@ -6,5 +6,6 @@ type 139
 no_pick 1
 face conv.111
 move_on walk
+editable 64
 visibility 100
 end

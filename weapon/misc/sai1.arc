@@ -5,11 +5,12 @@ last_sp 5
 type 15
 face sai_1.111
 material 18
-dam 2
+dam 2 
 ac 1
 resist_physical 2
 weight 2000
 value 80
+editable 1024
 attacktype 1
 weapontype 5
 magicmap black
@@ -25,11 +26,12 @@ last_sp 5
 type 15
 face sai_2.111
 material 18
-dam 2
+dam 2 
 ac 1
 resist_physical 2
 weight 2000
 value 80
+editable 1024
 attacktype 1
 weapontype 5
 magicmap black

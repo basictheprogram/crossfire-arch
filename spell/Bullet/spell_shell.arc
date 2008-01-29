@@ -2,7 +2,6 @@
 # as such, most of the values aren't that meaningful compared
 # to spells players casts.
 Object spell_shell
-anim_suffix spellcasting
 name cannon shell
 name_pl cannon shell
 level 1

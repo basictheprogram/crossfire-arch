@@ -8,14 +8,14 @@ lava_sea.113
 lava_sea.114
 mina
 color_fg light_blue
-anim_speed 5
-client_anim_random 1
-move_block all
+color_bg blue
+speed 0.2
+no_pass 1
 no_pick 1
 is_water 1
+editable 8
 is_floor 1
 end
-
 Object lava_sea1
 name lava
 face lava_sea.111
@@ -26,9 +26,10 @@ lava_sea.113
 lava_sea.114
 mina
 color_fg light_blue
-anim_speed 5
-client_anim_random 1
+color_bg blue
+speed 0.2
 no_pick 1
 is_water 1
+editable 8
 is_floor 1
 end

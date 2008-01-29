@@ -13,7 +13,6 @@ fae_drag.132
 mina
 level 8
 monster 1
-move_type walk fly_low
 sleep 1
 unaggressive 1
 Wis 15
@@ -37,7 +36,9 @@ resist_paralyze 100
 resist_fear 100
 resist_blind 60
 speed -0.07
+move_type fly_low
 weight 70000
 run_away 20
 attack_movement 1
+editable 1
 end

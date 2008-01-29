@@ -12,4 +12,5 @@ Int 0
 Wis 2
 Pow 2
 Cha 1
+editable 0
 end

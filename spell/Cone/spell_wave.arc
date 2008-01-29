@@ -1,5 +1,4 @@
 Object spell_wave
-anim_suffix spellcasting
 name wave
 name_pl wave
 face spell_praying.111

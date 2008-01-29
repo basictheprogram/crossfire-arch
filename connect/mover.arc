@@ -31,10 +31,10 @@ invisible 1
 magicmap blue
 speed 0.2
 type 40
-move_type walk
 no_pick 1
 maxsp 1
 move_on walk fly_low
+editable 32
 visibility 50
 end
 Object mover_1
@@ -49,10 +49,10 @@ magicmap blue
 speed -0.2
 invisible 1
 type 40
-move_type walk
 no_pick 1
 sp 1
 move_on walk fly_low
+editable 32
 visibility 50
 end
 Object mover_2
@@ -69,10 +69,10 @@ magicmap blue
 invisible 1
 speed -0.2
 type 40
-move_type walk
 no_pick 1
 sp 2
 move_on walk fly_low
+editable 32
 visibility 50
 end
 Object mover_3
@@ -87,10 +87,10 @@ invisible 1
 magicmap blue
 speed -0.2
 type 40
-move_type walk
 no_pick 1
 sp 3
 move_on walk fly_low
+editable 32
 visibility 50
 end
 Object mover_4
@@ -107,10 +107,10 @@ mina
 magicmap blue
 speed -0.2
 type 40
-move_type walk
 no_pick 1
 sp 4
 move_on walk fly_low
+editable 32
 visibility 50
 end
 Object mover_5
@@ -125,10 +125,10 @@ mina
 magicmap blue
 speed -0.2
 type 40
-move_type walk
 no_pick 1
-sp 5
 move_on walk fly_low
+sp 5
+editable 32
 visibility 50
 end
 Object mover_6
@@ -145,10 +145,10 @@ mina
 magicmap blue
 speed -0.2
 type 40
-move_type walk
 no_pick 1
 sp 6
 move_on walk fly_low
+editable 32
 visibility 50
 end
 Object mover_7
@@ -163,10 +163,10 @@ mina
 magicmap blue
 speed -0.2
 type 40
-move_type walk
 no_pick 1
 sp 7
 move_on walk fly_low
+editable 32
 visibility 50
 end
 Object mover_8
@@ -183,9 +183,9 @@ mina
 magicmap blue
 speed -0.2
 type 40
-move_type walk
 no_pick 1
 sp 8
 move_on walk fly_low
+editable 32
 visibility 50
 end

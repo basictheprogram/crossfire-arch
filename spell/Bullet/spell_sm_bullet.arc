@@ -1,7 +1,6 @@
 # Just an evoker version of magic bullet, as a low
 # mana costing sp to kill things with.
 Object spell_small_bullet
-anim_suffix spellcasting
 name small bullet
 name_pl small bullet
 face spell_evocation.111

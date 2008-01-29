@@ -1,5 +1,4 @@
 Object spell_build_lightning_wall
-anim_suffix spellcasting
 name build lightning wall
 name_pl build lightning wall
 face spell_pyromancy.111
@@ -29,5 +28,5 @@ direction the spell is cast.  The wall can be
 torn down by creatures, and will eventually
 expire of its own accord.
 endmsg
-move_block all
+no_pass 1
 end

@@ -1,5 +1,4 @@
 Object spell_medium_fireball
-anim_suffix spellcasting
 name medium fireball
 name_pl medium fireball
 face spell_pyromancy.111

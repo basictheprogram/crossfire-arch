@@ -12,10 +12,9 @@ firestar.112
 firestar.113
 mina
 weapontype 7
-anim_speed 3
-client_anim_random 1
+speed 0.30
 type 15
-last_sp 9
+last_sp 9 
 face firestar.111
 material 2
 magic 6
@@ -26,6 +25,7 @@ resist_drain 100
 resist_fear 100
 value 400000
 weight 40000
+editable 5120
 magicmap yellow
 name_pl Firestars
 client_type 100

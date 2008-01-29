@@ -9,6 +9,7 @@ material 18
 dam 6
 weight 6000
 value 20
+editable 1024
 attacktype 1
 weapontype 3
 is_thrown 1

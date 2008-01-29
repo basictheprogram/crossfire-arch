@@ -15,10 +15,10 @@ speed 0.25
 anim_speed 5
 alive 1
 monster 1
-move_type walk
 unaggressive 1
 random_movement 1
 can_cast_spell 1
+can_apply 25
 Str 10
 Wis 20
 Pow 80
@@ -47,6 +47,7 @@ exp 90000
 dam 20
 level 31
 weight 150000
+editable 1
 undead 1
 color_fg black
 end

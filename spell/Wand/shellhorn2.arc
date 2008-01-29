@@ -9,6 +9,7 @@ level 1
 value 5900
 weight 4000
 material 2
+editable 2048
 name_pl shell horns
 client_type 721
 body_range -1

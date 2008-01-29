@@ -4,8 +4,7 @@ name mithril chainmail of lightning of Sorig
 type 16
 face mithril_ar_ele.111
 animation mithril_ar_ele
-anim_speed 3
-client_anim_random 1
+speed 0.3
 ac 4
 resist_physical 40
 resist_electricity 40
@@ -25,6 +24,7 @@ gen_sp_armour 2
 last_sp 27
 weight 15000
 value 4000
+editable 5120
 name_pl mithril chainmails of lightning of Sorig
 client_type 250
 body_torso -1

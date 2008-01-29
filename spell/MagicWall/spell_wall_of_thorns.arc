@@ -1,5 +1,4 @@
 Object spell_wall_of_thorns
-anim_suffix spellcasting
 name wall of thorns
 name_pl wall of thorns
 face spell_praying.111
@@ -22,5 +21,5 @@ maxgrace 50
 attacktype 1
 range 2
 range_modifier 14
-move_block all
+no_pass 1
 end

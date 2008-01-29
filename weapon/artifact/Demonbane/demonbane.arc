@@ -16,8 +16,7 @@ demonbane.117
 demonbane.118
 demonbane.119
 mina
-anim_speed 5
-client_anim_random 1
+speed 0.2
 material 2
 dam 11
 magic 3
@@ -25,6 +24,7 @@ weight 32000
 value 90000
 slaying demon
 resist_fire 30
+editable 5120
 attacktype 1
 weapontype 1
 magicmap black

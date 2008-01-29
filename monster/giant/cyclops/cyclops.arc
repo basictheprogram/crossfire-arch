@@ -3,7 +3,6 @@ randomitems cyclops
 face cyclops.x31
 race giant
 monster 1
-move_type walk
 sleep 1
 Wis 11
 anim
@@ -45,9 +44,11 @@ no_pick 1
 speed -0.35
 weight 30000000
 run_away 5
+editable 1
 can_use_weapon 1
 can_use_bow 1
 can_use_rod 1
+can_use_wand 1
 can_use_skill 1
 magicmap khaki
 body_skill 1
@@ -66,7 +67,6 @@ cyclops.x31
 cyclops.x32
 mina
 monster 1
-move_type walk
 alive 1
 no_pick 1
 x 1
@@ -84,7 +84,6 @@ cyclops.x31
 cyclops.x32
 mina
 monster 1
-move_type walk
 alive 1
 no_pick 1
 y 1
@@ -102,7 +101,6 @@ cyclops.x31
 cyclops.x32
 mina
 monster 1
-move_type walk
 alive 1
 no_pick 1
 x 1
@@ -121,7 +119,6 @@ cyclops.x31
 cyclops.x32
 mina
 monster 1
-move_type walk
 alive 1
 no_pick 1
 y 2
@@ -139,7 +136,6 @@ cyclops.x31
 cyclops.x32
 mina
 monster 1
-move_type walk
 alive 1
 no_pick 1
 x 1

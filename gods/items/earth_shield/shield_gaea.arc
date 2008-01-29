@@ -16,8 +16,7 @@ msg
 endmsg
 is_animated 1
 ac 4
-anim_speed 5
-client_anim_random 1
+speed 0.2
 nrof 1
 startequip 1
 type 33

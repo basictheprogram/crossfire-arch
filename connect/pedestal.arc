@@ -12,6 +12,7 @@ mina
 no_pick 1
 move_on walk
 move_off walk
+editable 48
 visibility 50
 magicmap grey
 end

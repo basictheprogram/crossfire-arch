@@ -1,5 +1,4 @@
 Object spell_repelwall
-anim_suffix spellcasting
 name create repulsion wall
 name_pl create repulsion wall
 face spell_sorcery.111

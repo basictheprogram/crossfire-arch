@@ -1,5 +1,4 @@
 Object spell_mystic_fist
-anim_suffix spellcasting
 name mystic fist
 name_pl mystic fist
 face spell_summoner.111

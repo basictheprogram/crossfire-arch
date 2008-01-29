@@ -10,6 +10,7 @@ materialname iron
 value 100
 weight 10000
 identified 1
+editable 2048
 name_pl iron bars
 client_type 2005
 end

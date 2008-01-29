@@ -10,8 +10,7 @@ masamune.111
 masamune.114
 masamune.114
 mina
-anim_speed 5
-client_anim_random 1
+speed .2
 slaying undead
 last_sp 3
 Str 2
@@ -24,6 +23,7 @@ resist_ghosthit 100
 resist_deplete 30
 weight 9000
 value 220000
+editable 5120
 attacktype 257
 weapontype 4
 material 2

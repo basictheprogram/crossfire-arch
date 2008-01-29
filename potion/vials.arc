@@ -9,6 +9,7 @@ type 54
 material 32
 value 4
 weight 150
+editable 2048
 on_use_yield vial_empty
 client_type 611
 end
@@ -24,6 +25,7 @@ type 54
 material 32
 value 4
 weight 150
+editable 2048
 on_use_yield vial_empty
 client_type 611
 end
@@ -39,6 +41,7 @@ type 54
 material 32
 value 4
 weight 150
+editable 2048
 on_use_yield vial_empty
 client_type 611
 end
@@ -54,6 +57,7 @@ type 54
 material 32
 value 4
 weight 150
+editable 2048
 on_use_yield vial_empty
 client_type 611
 end
@@ -69,6 +73,7 @@ type 54
 material 32
 value 4
 weight 150
+editable 2048
 on_use_yield vial_empty
 client_type 611
 end
@@ -84,6 +89,7 @@ type 54
 material 32
 value 4
 weight 150
+editable 2048
 on_use_yield vial_empty
 client_type 611
 end
@@ -99,6 +105,7 @@ type 54
 material 32
 value 4
 weight 150
+editable 2048
 on_use_yield vial_empty
 client_type 611
 end

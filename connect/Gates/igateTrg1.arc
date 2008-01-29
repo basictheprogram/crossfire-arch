@@ -16,13 +16,14 @@ iron_gate1.117
 iron_gate1.118
 mina
 is_animated 0
-move_block all
+no_pass 1
 no_magic 1
 damned 1
 blocksview 1
 wc 7
 maxsp 0
 dam 6
+editable 16
 visibility 50
 maxhp 20
 hp 20

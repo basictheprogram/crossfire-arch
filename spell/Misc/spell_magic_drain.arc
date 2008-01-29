@@ -1,5 +1,4 @@
 Object spell_magic_drain
-anim_suffix spellcasting
 name magic drain
 name_pl magic drain
 face spell_sorcery.111

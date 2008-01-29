@@ -13,14 +13,14 @@ uk_sd.115
 uk_sd.116
 uk_sd.117
 mina
-anim_speed 2
-client_anim_random 1
+speed .4
 material 2
 Str 2
 Dex 2
 dam 40
 weight 111000
 value 1000000
+editable 1024
 attacktype 1
 weapontype 1
 magicmap grey

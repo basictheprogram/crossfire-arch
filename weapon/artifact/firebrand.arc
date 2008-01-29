@@ -9,8 +9,7 @@ firebrand.111
 firebrand.112
 firebrand.113
 mina
-anim_speed 4
-client_anim_random 1
+speed 0.25
 material 2
 dam 9
 weight 22000
@@ -19,6 +18,7 @@ magic 3
 resist_cold 30
 attacktype 4
 weapontype 1
+editable 5120
 magicmap red
 name_pl Firebrands
 client_type 100

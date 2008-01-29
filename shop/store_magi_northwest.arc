@@ -4,7 +4,8 @@ face store_magi_northwest.x11
 color_fg blue
 type 66
 no_pick 1
-move_block all
+no_pass 1
+editable 64
 visibility 100
 end
 More
@@ -15,7 +16,7 @@ color_fg blue
 type 66
 x 1
 no_pick 1
-move_block all
+no_pass 1
 visibility 100
 end
 More

@@ -36,15 +36,15 @@ Dex 25
 Int 10
 Con 20
 maxhp 3000
-level 50
+level 12
 alive 1
 speed -0.2
 weight 3000000
 monster 1
-move_type walk
 sleep 1
 Wis 13
 alive 1
+editable 1
 run_away 3
 can_use_weapon 1
 can_use_skill 1
@@ -76,7 +76,6 @@ gaelotroll.x73
 gaelotroll.x72
 mina
 monster 1
-move_type walk
 alive 1
 x 1
 magicmap blue
@@ -105,7 +104,6 @@ gaelotroll.x73
 gaelotroll.x72
 mina
 monster 1
-move_type walk
 alive 1
 y 1
 magicmap blue
@@ -134,7 +132,6 @@ gaelotroll.x73
 gaelotroll.x72
 mina
 monster 1
-move_type walk
 alive 1
 x 1
 y 1
@@ -164,7 +161,6 @@ gaelotroll.x73
 gaelotroll.x72
 mina
 monster 1
-move_type walk
 alive 1
 y 2
 magicmap blue
@@ -193,7 +189,6 @@ gaelotroll.x73
 gaelotroll.x72
 mina
 monster 1
-move_type walk
 alive 1
 x 1
 y 2

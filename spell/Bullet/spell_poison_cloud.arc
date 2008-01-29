@@ -1,5 +1,4 @@
 Object spell_poison_cloud
-anim_suffix spellcasting
 name poison cloud
 name_pl poison cloud
 face spell_sorcery.111

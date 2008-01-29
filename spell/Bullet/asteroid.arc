@@ -14,11 +14,12 @@ asteroid.161
 asteroid.171
 asteroid.181
 mina
-is_animated 0
+is_animated 0   
 is_turnable 1
 move_on walk fly_low
 move_type fly_low
 speed 1
+editable 0
 magicmap grey
 no_pick 1
 end

@@ -1,5 +1,4 @@
 Object spell_spiderweb
-anim_suffix spellcasting
 name spiderweb
 name_pl spiderweb
 face spell_praying.111

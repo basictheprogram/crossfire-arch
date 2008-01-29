@@ -1,5 +1,4 @@
 Object spell_disarm
-anim_suffix spellcasting
 name disarm
 name_pl disarm
 face spell_sorcery.111

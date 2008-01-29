@@ -1,6 +1,5 @@
 # this should only be found in potions!
 Object spell_regenerate_spellpoints
-anim_suffix spellcasting
 name regenerate spellpoints
 name_pl regenerate spellpoints
 level 99

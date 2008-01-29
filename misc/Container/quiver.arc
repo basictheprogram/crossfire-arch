@@ -12,6 +12,7 @@ weight 100
 container 150000
 Str 10
 identified 1
+editable 128
 magicmap orange
 name_pl quivers
 client_type 60
@@ -23,5 +24,6 @@ type 121
 no_drop 1
 no_pick 1
 identified 1
+editable 0
 magicmap orange
 end

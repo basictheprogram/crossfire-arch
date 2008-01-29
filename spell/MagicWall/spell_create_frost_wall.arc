@@ -1,5 +1,4 @@
 Object spell_create_frost_wall
-anim_suffix spellcasting
 name create frost wall
 name_pl create frost wall
 face spell_evocation.111
@@ -22,5 +21,5 @@ maxsp 8
 attacktype 18
 range 2
 range_modifier 12
-move_block all
+no_pass 1
 end

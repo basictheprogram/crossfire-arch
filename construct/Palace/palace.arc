@@ -2,6 +2,7 @@ Object palace
 type 66
 face palace.x11
 no_pick 1
+editable 2
 visibility 100
 magicmap white
 client_type 25012

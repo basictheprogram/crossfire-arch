@@ -9,8 +9,7 @@ skullcleav.112
 skullcleav.113
 skullcleav.114
 mina
-anim_speed 10
-client_anim_random 1
+speed 0.1
 last_sp 11
 type 15
 weight 32000
@@ -18,6 +17,7 @@ magic 3
 dam 20
 material 18
 value 80000
+editable 5120
 attacktype 1
 weapontype 3
 magicmap black

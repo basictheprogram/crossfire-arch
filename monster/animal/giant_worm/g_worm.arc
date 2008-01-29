@@ -11,7 +11,6 @@ g_worm.x72
 mina
 attacktype 1025
 monster 1
-move_type walk
 sleep 1
 Str 40
 Pow 30
@@ -19,7 +18,7 @@ Wis 20
 Dex 15
 Con 30
 Int 10
-resist_physical 85
+armour 85
 resist_magic 30
 resist_acid 100
 resist_fire 30
@@ -45,6 +44,7 @@ weight 1800000
 can_cast_spell 1
 can_see_in_dark 1
 see_invisible 1
+editable 1
 color_fg green
 end
 More

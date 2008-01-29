@@ -1,5 +1,4 @@
 Object spell_cure_poison
-anim_suffix spellcasting
 name cure poison
 name_pl cure poison
 face spell_praying.111

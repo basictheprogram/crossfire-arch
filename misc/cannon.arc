@@ -8,8 +8,9 @@ level 1
 face cannon_0.111
 color_fg brown
 speed -0.4
-move_block all
+no_pass 1
 blocksview 1
+editable 32
 end
 #
 Object cannon_1
@@ -23,8 +24,9 @@ face cannon_1.111
 color_fg brown
 sp 1
 speed -0.1
-move_block all
+no_pass 1
 blocksview 1
+editable 32
 end
 #
 Object cannon_2
@@ -38,8 +40,9 @@ face cannon_2.111
 color_fg brown
 sp 2
 speed -0.1
-move_block all
+no_pass 1
 blocksview 1
+editable 32
 end
 #
 Object cannon_3
@@ -53,8 +56,9 @@ face cannon_3.111
 color_fg brown
 sp 3
 speed -0.1
-move_block all
+no_pass 1
 blocksview 1
+editable 32
 end
 #
 Object cannon_4
@@ -68,8 +72,9 @@ face cannon_4.111
 color_fg brown
 sp 4
 speed -0.1
-move_block all
+no_pass 1
 blocksview 1
+editable 32
 end
 #
 Object cannon_5
@@ -83,8 +88,9 @@ face cannon_5.111
 color_fg brown
 sp 5
 speed -0.1
-move_block all
+no_pass 1
 blocksview 1
+editable 32
 end
 #
 Object cannon_6
@@ -98,8 +104,9 @@ face cannon_6.111
 color_fg brown
 sp 6
 speed -0.1
-move_block all
+no_pass 1
 blocksview 1
+editable 32
 end
 #
 Object cannon_7
@@ -113,8 +120,9 @@ face cannon_7.111
 color_fg brown
 sp 7
 speed -0.1
-move_block all
+no_pass 1
 blocksview 1
+editable 32
 end
 #
 Object cannon_8
@@ -128,6 +136,7 @@ face cannon_8.111
 color_fg brown
 sp 8
 speed -0.1
-move_block all
+no_pass 1
 blocksview 1
+editable 32
 end

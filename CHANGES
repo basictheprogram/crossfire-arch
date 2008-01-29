@@ -1,168 +1,20 @@
 Changes for SVN top of tree:
 
-wall/dwall/arc: Remove incorrect Object dwall3_3 and associated comment.
-Kevin Bulgrien 2008-01-18
+------------------------------------------------------------------------------
+Changes for 1.11:
 
-monster/*: Rebalance monsters.  In many cases, hp, ac, exp, and level
-were adjusted.  This also incluedes the gods avatars and some spells that
-create monster like objects.
-player/race/*.arc: Give all playable races a 30 sp/hp/grace boost, so
-starting values are higher, making things more playable.
-MSW 2008-01-13
-
-wall/slevel/dlevel.arc corrected to provide reused face from slevel set.
 traps/tspikes.base.111.png changed from greyscale to indexed to fix a
 transparency problem.
-Kevin Bulgrien 2007-01-12
-
-Re-add misc/machine.arc and machine.base.x11.png under the GFDL after obtaining
-permission from the original author to relicense the image under the GFDL or
-the GPL as appropriate. Though neither does address images, the GFDL has been
-applied to images by other organizations and is somewhat clearer in how it may
-be applied to graphic art.
-Kevin Bulgrien 2007-01-12
-
-Remove misc/machine.arc and machine.base.x11.png and newly added LICENCE (as it
-was added specifically to address Creative Commons licensing) due to concerns
-about Creative Commons ShareAlike licensing requirements, and most especially
-concerning a possible perception that this project or a distribution might be
-construed to be a "collection" as defined by Creative Commons.
-Kevin Bulgrien 2007-01-11
-
-Correct the license text to show that this derivation is released under
-version 3.0 Creative Commons licensing to improve compatibility with
-Debian.
-
-Add misc/machine.arc, misc/machine.base.x11.png under terms of a Creative
-Commons Attribution-ShareAlike license described in misc/machine.arc and
-as an attributed derivative work of a copyrighted image.  The inspiration
-for this graphic was provided by Yann (gros) Chachkoff.  Added a LICENSE
-file to communicate the fact that this type of license now governs some
-material in the arch collection.
-Kevin Bulgrien 2007-01-10
-
-Rework dev/wip/spout to make water wider and more visible.  Also adjust the
-color to better match the sea arch set.  Add a reference layer of a sea tile
-to spout.xcf.  Convert all the .png files to indexed mode to reduce size.
-Update README with methods used to produce the graphics and remove comments
-about issues with the original revision.  The .arc files have been modified
-to add 'map_layer item' to prevent wall pieces from disappearing when these
-archs are placed on top of them.
-Kevin Bulgrien 2007-01-09
-
-Add a set of "overlay" archs that are designed to sit on top of walls to form
-a spout with water pouring out.  The art is designed to separate the liquid
-and spout to allow spout and fluid variations.  The archs are WIP because they
-cause the wall underneath them to disappear.  This is probably a map layer
-issue.  It may not take much to fix, but are not presently releasable.
-The files are in dev/wip/spout, and are: pour_h2o.arc, pour_h2o.base.111.png,
-pour_h2o.base.112.png, pour_h2o.base.113.png, pour_h2o.base.114.png,
-pour_h2o.face, pour_spout.arc, pour_spout.base.111.png, README, spout.xcf.
-Note that maps/trunk/unlinked/kbulgrien/rayvins_house.1 contains these arches.
-
-Add wall/wall/wall_door_0.base.111.png and wall_door_1.base.111.png to make
-it possible to have tight-fitting doors (no gaps due to perspective) in the
-wall arch set.  wall/wall/wall.arc modified.  Decided to use the numbering
-of the window archs.  Also, per naming of the stwall window archs, rename
-wall/stwall/stwall_2_door.base.111.png and stwall_5_door.base.111.png to
-stwall_door_1.base.111.png and stwall_door_0.base.111.png and update
-stwall.arc.
-Kevin Bulgrien 2007-01-08
-
-Add wall/stwall/stwall_2_door.base.111.png and stwall_5_door.base.111.png to
-make it possible to have tight-fitting doors (no gaps due to perspective).
-wall/stwall/stwall.arc modified.
-Kevin Bulgrien 2007-01-07
-
-Add wall/slevel/dlevel*.png and wall/slevel/dlevel.arc.  The slevel arches are
-raised "elevation" marks that are supposed to overlay other tiles to give the
-appearance of a raised platform.  The dlevel arches are the same graphics but
-flipped in X and/or Y as appropriate to present a depression.  Both arch sets
-rely on the Crossfire perspective to give the hint of a ridge or depression.
-In an elevation, the leading edges are long and the receding edges are short.
-For the depression the leading edges are short and receding edges long.
-Kevin Bulgrien 2007-01-07
-
-Add wall/bwall/bwall_hole_5.base.111.png,wall/bwall/bwall_hole_A.base.111.png,
-and wall/bwall/bwall_hole.arc.  The vertical wall has a transparent hole in
-the left face, and the horizontal wall has a transparent hole in the bottom
-face.  The holes could be drains for flowing rivers, or might even be an exit.
-Kevin Bulgrien 2007-01-07
-
-Add dev/wip directory for commiting work-in-progress archetypes.  The directory
-is not visible in Gridarta CrossfireEditor, but can be made so with a soft link
-like arch/trunk/wip --> arch/trunk/dev/wip.
-Add dev/wip/README describing the use of the directory.
-Add dev/wip/manhole as a manhole archetype work-in-progress to facilitate some
-collaboration on getting a multi-tile HOLE animation to work.  Included is a
-README and a world_105_115.patch test case.
-Kevin Bulgrien 2007-12-29
-
-Add names to woodfloor, woodfloor2, woodlarge, and dirtfloor.
-Nicolas Weeger 2007-12-29
-
-Nicer mountain1, 2, 3, 4 5.
-Update woods_4 archetype so it's not anymore acting as a ground (transparency
-parts, it is *NOT* a ground, visually speaking)
-Make the fireball and firebreath smooth
-Tchize 2007-12-28
-
-Add smooth image for light snow + source file + empty layer file (use it to help building smooth images)
-Tchize 2007-12-24
-
-Add the archetype hook for user-defined plugin events.
-Yann (gros) Chachkoff 2007-12-23
-
-Add various lighthouse archetypes to replace use of huts and towers that are
-called "lighthouse" in various maps.  A base archetype is added along with
-west, northwest, and snowy variants.
-Kevin Bulgrien 2007-12-22
-
-Singing anim_suffix.
-Nicolas Weeger 2007-12-21
-
-Singing animation for Fenx.
-Nicolas Weeger 2007-12-18
-
-Add missing faces for spider (for now, always the same sprite).
-Nicolas Weeger 2007-12-16
-
-Add ne, se, sw, and nw corners to the mine walls to fix the Scorn port gate
-house with consistent walls.
-Kevin Bulgrien 2007-12-10
-
-Four facings for angel, and sword animation.
-Facings for whim.
-Nicolas Weeger 2007-12-09
-
-Basic animation for Ruggilli's altar.
-Basic animation for Sorig's altar.
-Nicolas Weeger 2007-12-07
-
-Commit spellcasting animations for chinese dragons
-Andreas Kirchbaum 2007-11-30
-
-Added a spellcasting animation for the Big Dragon. Courtesy of Rednaxela.
-Yann (gros) Chachkoff 2007-11-29
-
-Add anim_suffix spellcasting to all spells.
-Alex Schultz 2007-11-29
+Kevin Bulgrien 2007-01-13
 
 Add correct plural name to flowers_permanent.
 Andreas Kirschbaum 2007-11-23
-
-Add sample support for spellcasting compound animations.
-Try to cast minor healing with a Fenx 
-Yann (gros) Chachkoff 2007-11-18
 
 Update spellcasting objects to use inventory objects.
 Andreas Kirschbaum 2007-11-04
 
 Rename low_boots from "shoes" to "pair of shoes".
 Andreas Kirschbaum 2007-11-03
-
-New archetypes goldflagstone.arc  to avoid using creator tricks.
-Nicholas Weeger 2007-10-20
 
 Revert previous change of dragon's steaks weight.
 Andreas Kirschbaum 2007-10-15
@@ -174,11 +26,6 @@ player/class/Wizardry/sorcerer_class.arc
   - Add body_head -1 to Sorceror's Hat.
 Kevin R. Bulgrien 2007-10-05
 
-Rename treasure lists human_player->human_player_items and
-halfling_player->halfling_player_items to match the names of similar treasure
-lists.
-Andreas Kirschbaum 2007-09-28
-
 Renamed "potion of invulnerability" to "potion of shielding." Hopefully this
 will remove player confusion as to why one takes damage from all attack types
 (except physical) when drinking this potion.
@@ -187,32 +34,11 @@ RJT 2007-09-26
 Updated Valkyrie's granted attack types, replaced godpower with weaponmagic.
 RJT 2007-09-26
 
-Fix treefort3, make it 1 tile instead of weird missing square.
-Nicolas Weeger 2007-08-18
-
-Add client_anim_... support for all objects that support it, remove
-their speed attributes if the only reason they had speed set was for
-animation.
-MSW 2007-07-09
-
-Remove all 'editable' fields, obsolete with Crossedit removal.
- (almost all .arc impacted)
-Nicolas Weeger 2007-06-13
-
 Replace "object xxx" with "Object xxx".
 Andreas Kirschbaum 2007-06-12
 
 Fix bug #1687761: Archetype using undefined type number.
 Nicolas Weeger 2007-05-07
-
-Fix incorrectly converted jessyb.base.x13.png multi-part image.
-Andreas Kirschbaum 2007-05-06
-
-Replace "no_pass 1" with "move_block all".
-Andreas Kirschbaum 2007-04-05
-
-spell/Bolt/steambolt.arc: Remove old LIGHTNING(12) type.
-Alex Schultz 2007-04-03
 
 Fix bug #1687729: Spell "create repulsion wall" is broken. Missing
  move_block field. Also replace obsolete no_pass with move_block all.
@@ -221,20 +47,10 @@ Nicolas Weeger 2007-03-25
 
 Make event_xxx invisible, avoids many issues in the object handling
 routines.
----
-Start splitting server/lib/treasures file in many files.
-Rename player class files/random items for coherence.
 Nicolas Weeger 2007-03-17
 
-Converted all remaining multi-part base images into single images
-with the facename.base.x??.png format.  Deleted the old multi-part
-images and adjusted the archetypes accordingly.  This is a huge
-commit, but I thought it best to do it all in one commit so that if
-something is horribly wrong, it can be reverted with one command.
-Most of the conversion was automated, so if there's a problem I'm not
-seeing, it probably affects them all.
-Aaron Baugher 2007-02-16
-
+------------------------------------------------------------------------------
+Changes for 1.10:
 
 Created addition shoreline tiles for the ground/sea.arc tile set to
 add sea_F.base.111.png and sea_F.clsc.111.png that form a round pool
@@ -254,14 +70,6 @@ on three sides.  The naming convention used is consistent with the
 big lake tile set.  The naming.doc rules for walls is followed if
 you consider a shoreline to be a sort of wall.
 Kevin Bulgrien 2007-02-10
-
-
-Add new archetype and images for the IPO package, from Mike B.
-Aaron Baugher 2007-02-10
-
-
-Add new archetype and images for the IPO carton box, from Mike B.
-Aaron Baugher 2007-02-08
 
 
 Add new force archetype monk_no_use_weapon. It will be inserted into
@@ -378,7 +186,7 @@ Added level 1 to all archetypes with type 88 (CONE) that can do damage.
 
 ground/chaos.arc, arch chaos and arch major_chaos
 ground/lava.arc, arch lava and arch permanent_lava
-Added walk_on 1.
+Added move_on walk.
 
 ground/chaos_ball.arc, arch chaos_ball
 magic/banishment.arc, arch banishment
@@ -396,7 +204,7 @@ magic/Effect/paralyze.arc, arch paralyze
 magic/Effect/slow.arc, arch slow
 magic/Effect/turnundead.arc, arch turn_undead
 magic/Mana/manablast.arc, arch manablast
-Added walk_on 1 and fly_on 1.
+Added move_on walk and fly_on 1.
 
 connect/trig_altar.arc
 connect/trig_lever.arc
@@ -435,10 +243,10 @@ Some archetypes had fly_on or walk_on set, although they were not handled
 by move_apply().  - Jan Echternach 5/16/2000
 
 ground/sea.arc, arch sea1
-Removed walk_on 1.
+Removed move_on walk.
 
 ground/meteor.arc, arch fire_trail
-Removed walk_on 1 and fly_on 1.
+Removed move_on walk and fly_on 1.
 
 
 spell/gu_horn.arc, spell/horn.arc, spell/horn1.arc, spell/horn3.arc

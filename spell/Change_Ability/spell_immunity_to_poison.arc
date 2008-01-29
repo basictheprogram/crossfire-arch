@@ -1,6 +1,5 @@
 # Obsolete spell - here for backward compatibility
 Object spell_immunity_to_poison
-anim_suffix spellcasting
 name immunity to poison
 name_pl immunity to poison
 level 12

@@ -6,4 +6,5 @@ msg
 You are filled with a desire to slay all
 faeries and dwarfs.
 endmsg
+editable 0
 end

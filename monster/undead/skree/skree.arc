@@ -5,7 +5,6 @@ randomitems skree
 animation skree_1
 attacktype 1025
 monster 1
-move_type walk
 sleep 1
 Wis 20
 resist_fear 100
@@ -32,6 +31,7 @@ alive 1
 can_cast_spell 1
 speed -0.5
 weight 1000000
+editable 1
 color_fg black
 undead 1
 end

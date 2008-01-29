@@ -1,5 +1,4 @@
 Object spell_protection_from_slow
-anim_suffix spellcasting
 name protection from slow
 name_pl protection from slow
 face spell_praying.111

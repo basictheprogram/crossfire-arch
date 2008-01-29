@@ -11,6 +11,7 @@ bwall_w_0.115
 bwall_w_0.116
 bwall_w_0.117
 mina
+color_bg yellow
 color_fg grey
 is_animated 0
 tear_down 1
@@ -29,6 +30,7 @@ no_pick 1
 blocksview 1
 alive 1
 level 1
+editable 768
 visibility 100
 end
 Object weak_wall_6
@@ -44,6 +46,7 @@ bwall_w_1.115
 bwall_w_1.116
 bwall_w_1.117
 mina
+color_bg yellow
 color_fg grey
 is_animated 0
 tear_down 1
@@ -62,6 +65,7 @@ no_pick 1
 blocksview 1
 alive 1
 level 1
+editable 768
 visibility 100
 map_layer living
 end

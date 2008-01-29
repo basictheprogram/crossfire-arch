@@ -1,5 +1,4 @@
 Object spell_frost_nova
-anim_suffix spellcasting
 name frost nova
 name_pl frost nova
 face spell_evocation.111

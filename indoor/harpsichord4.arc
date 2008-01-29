@@ -1,5 +1,5 @@
 Object harpsichord4
-name harpsichord
+name harpsichord 
 slaying goldcoin
 food 1
 type 31
@@ -7,11 +7,12 @@ exp 30
 face harpsichord4.x11
 no_pick 1
 move_on walk
+editable 48
 visibility 50
 end
 More
 Object harpsichord4_2
-name harpsichord
+name harpsichord 
 slaying goldcoin
 food 1
 type 31
@@ -20,11 +21,12 @@ exp 30
 face harpsichord4.x11
 no_pick 1
 move_on walk
+editable 48
 visibility 50
 end
 More
 Object harpsichord4_3
-name harpsichord
+name harpsichord 
 slaying goldcoin
 food 1
 type 31
@@ -33,11 +35,12 @@ exp 30
 face harpsichord4.x11
 no_pick 1
 move_on walk
+editable 48
 visibility 50
 end
 More
 Object harpsichord4_4
-name harpsichord
+name harpsichord 
 slaying goldcoin
 food 1
 type 31
@@ -47,6 +50,7 @@ exp 30
 face harpsichord4.x11
 no_pick 1
 move_on walk
+editable 48
 visibility 50
 end
 

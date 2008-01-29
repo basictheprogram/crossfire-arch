@@ -3,7 +3,8 @@ name shop
 face store_gene_west.x11
 type 66
 no_pick 1
-move_block all
+no_pass 1
+editable 64
 visibility 100
 magicmap grey
 client_type 25012
@@ -15,7 +16,7 @@ face store_gene_west.x11
 type 66
 x 1
 no_pick 1
-move_block all
+no_pass 1
 visibility 100
 magicmap grey
 end

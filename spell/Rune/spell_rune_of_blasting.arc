@@ -1,5 +1,4 @@
 Object spell_rune_of_blasting
-anim_suffix spellcasting
 name rune of blasting
 name_pl rune of blasting
 face spell_pyromancy.111

@@ -1,5 +1,4 @@
 Object spell_identify
-anim_suffix spellcasting
 name identify
 name_pl identify
 face spell_sorcery.111

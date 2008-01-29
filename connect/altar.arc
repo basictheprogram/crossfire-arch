@@ -11,6 +11,7 @@ altar.112
 mina
 no_pick 1
 move_on walk
+editable 48
 visibility 50
 magicmap grey
 end

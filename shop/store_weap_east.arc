@@ -4,7 +4,8 @@ face store_weap_east.x11
 color_fg dark_orange
 type 66
 no_pick 1
-move_block all
+no_pass 1
+editable 64
 visibility 100
 magicmap yellow
 client_type 25012
@@ -17,7 +18,7 @@ color_fg dark_orange
 type 66
 x 1
 no_pick 1
-move_block all
+no_pass 1
 visibility 100
 magicmap yellow
 end

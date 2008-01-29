@@ -1,5 +1,4 @@
 Object spell_create_fire_wall
-anim_suffix spellcasting
 name create fire wall
 name_pl create fire wall
 face spell_pyromancy.111
@@ -22,5 +21,5 @@ maxsp 8
 attacktype 6
 range 2
 range_modifier 10
-move_block all
+no_pass 1
 end

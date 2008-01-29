@@ -1,5 +1,4 @@
 Object spell_sunspear
-anim_suffix spellcasting
 name sunspear
 name_pl sunspears
 face spell_praying.111

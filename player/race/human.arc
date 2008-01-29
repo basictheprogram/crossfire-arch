@@ -1,7 +1,7 @@
 Object human_player
 name human
 race human
-randomitems human_player_items
+randomitems human_player
 face human.151
 msg
 Humans are the generalists of the races.
@@ -44,6 +44,7 @@ Wis 0
 Cha 0
 Int 0
 Pow 0
+editable 0
 body_range 1
 body_arm 2
 body_torso 1
@@ -57,7 +58,4 @@ body_hand 2
 body_wrist 2
 body_waist 1
 body_leg 2
-maxhp 30
-maxsp 30
-maxgrace 30
 end

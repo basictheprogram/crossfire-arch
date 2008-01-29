@@ -13,6 +13,7 @@ resist_physical 4
 type 99
 material 8
 materialname white leather
+editable 1024
 magicmap white
 body_foot -2
 gen_sp_armour 4
@@ -33,6 +34,7 @@ resist_physical 25
 type 99
 material 2
 materialname white steel
+editable 1024
 magicmap white
 body_foot -2
 gen_sp_armour 4

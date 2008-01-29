@@ -7,6 +7,7 @@ material 2
 dam 9
 weight 16000
 value 65
+editable 1024
 attacktype 1
 weapontype 1
 magicmap white

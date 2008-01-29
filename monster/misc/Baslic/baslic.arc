@@ -11,10 +11,9 @@ baslic.x71
 baslic.x72
 mina
 monster 1
-move_type walk
 sleep 1
 Wis 20
-level 29
+level 19
 Str 10
 Con 5
 Pow 5
@@ -38,6 +37,7 @@ no_pick 1
 speed -0.2
 weight 2000000
 run_away 4
+editable 1
 color_fg black
 end
 More

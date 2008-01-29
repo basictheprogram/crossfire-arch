@@ -23,4 +23,5 @@ move_type fly_low
 no_pick 1
 speed 1
 wc 2
+editable 0
 end

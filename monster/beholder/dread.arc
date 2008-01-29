@@ -1,7 +1,7 @@
 Object dread
 name Dread
 race unnatural
-randomitems dread
+randomitems beholder_big
 face dread.x11
 color_fg blue
 anim
@@ -14,11 +14,11 @@ dread.x16
 mina
 exp 50000
 monster 1
-move_type walk fly_low
 sleep 1
 Wis 20
 alive 1
 no_pick 1
+move_type fly_low
 see_invisible 1
 Con 5
 Pow 14
@@ -29,7 +29,7 @@ maxhp 1500
 ac -10
 wc -20
 dam 25
-level 60
+level 15
 resist_magic 90
 resist_fire 100
 resist_poison 100
@@ -40,6 +40,7 @@ speed -0.30
 weight 30000
 run_away 2
 attack_movement 1
+editable 1
 end
 More
 Object dread_2
@@ -57,7 +58,7 @@ dread.x16
 mina
 alive 1
 no_pick 1
-move_type walk fly_low
+move_type fly_low
 end
 More
 Object dread_3
@@ -75,7 +76,7 @@ dread.x16
 mina
 alive 1
 no_pick 1
-move_type walk fly_low
+move_type fly_low
 end
 More
 Object dread_4
@@ -94,5 +95,5 @@ dread.x16
 mina
 alive 1
 no_pick 1
-move_type walk fly_low
+move_type fly_low
 end

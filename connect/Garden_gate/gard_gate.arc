@@ -15,9 +15,11 @@ is_animated 0
 hp 0
 dam 0
 maxsp 1
+editable 16
 visibility 100
 ac 1
 wc 0
+pass_thru 1
 magicmap black
 end
 Object ggate_closed
@@ -37,9 +39,11 @@ is_animated 0
 hp 0
 dam 0
 maxsp 0
+editable 16
 visibility 100
 ac 1
 wc 3
-move_block all
+no_pass 1
+pass_thru 1
 magicmap black
 end

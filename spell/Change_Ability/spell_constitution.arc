@@ -1,5 +1,4 @@
 Object spell_constitution
-anim_suffix spellcasting
 name constitution
 name_pl constitution
 face spell_sorcery.111

@@ -1,5 +1,4 @@
 Object spell_heroism
-anim_suffix spellcasting
 name heroism
 name_pl heroism
 level 10

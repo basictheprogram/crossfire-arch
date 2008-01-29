@@ -1,5 +1,4 @@
 Object spell_town_portal
-anim_suffix spellcasting
 name town portal
 name_pl town portal
 face spell_sorcery.111

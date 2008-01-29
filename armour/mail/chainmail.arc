@@ -12,6 +12,7 @@ ac 4
 resist_physical 30
 weight 60000
 value 75
+editable 1024
 body_torso -1
 gen_sp_armour 15
 end

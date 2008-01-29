@@ -59,6 +59,7 @@ Int 0
 Wis 3
 Pow 3
 Cha 0
+editable 0
 body_range 1
 body_arm 2
 body_torso 1
@@ -72,7 +73,4 @@ body_hand 2
 body_wrist 2
 body_waist 1
 body_leg 2
-maxhp 30
-maxsp 30
-maxgrace 30
 end

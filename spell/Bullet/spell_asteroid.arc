@@ -1,5 +1,4 @@
 Object spell_asteroid
-anim_suffix spellcasting
 name asteroid
 name_pl asteroid
 face spell_evocation.111

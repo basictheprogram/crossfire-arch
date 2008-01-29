@@ -22,4 +22,5 @@ Con 1
 Int -2
 Wis -1
 Pow -1
+editable 0
 end

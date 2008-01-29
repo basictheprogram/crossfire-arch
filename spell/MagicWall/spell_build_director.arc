@@ -1,5 +1,4 @@
 Object spell_build_director
-anim_suffix spellcasting
 name build director
 name_pl build director
 face spell_summoner.111
@@ -29,5 +28,5 @@ most notably bullets and bolts.  Thus, it can
 be used to be able to fire a spell around a
 corner, or direct a spell back at the caster.
 endmsg
-move_block all
+no_pass 1
 end

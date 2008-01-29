@@ -8,6 +8,7 @@ weight 7000
 value 0
 material 16
 nrof 1
+editable 128
 magicmap white
 name_pl bones
 client_type 8002
@@ -25,6 +26,7 @@ weight 2000
 value 0
 material 16
 nrof 1
+editable 128
 magicmap white
 name_pl bones
 client_type 8002
@@ -42,6 +44,7 @@ weight 1000
 value 0
 material 16
 nrof 1
+editable 128
 magicmap white
 name_pl bones
 client_type 8002
@@ -59,6 +62,7 @@ weight 7000
 value 0
 material 16
 nrof 1
+editable 128
 magicmap white
 name_pl bones
 client_type 8002
@@ -76,6 +80,7 @@ weight 11000
 value 0
 material 16
 nrof 1
+editable 128
 magicmap white
 name_pl bones
 client_type 8002

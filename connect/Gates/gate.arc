@@ -18,6 +18,7 @@ is_animated 0
 wc 0
 dam 1
 maxsp 1
+editable 16
 visibility 50
 magicmap black
 end
@@ -38,11 +39,12 @@ gate_1.116
 gate_1.117
 mina
 is_animated 0
-move_block all
+no_pass 1
 blocksview 1
 wc 6
 maxsp 0
 dam 1
+editable 16
 visibility 50
 magicmap black
 end
@@ -67,6 +69,7 @@ is_animated 0
 hp 0
 dam 1
 maxsp 1
+editable 16
 visibility 50
 magicmap black
 end
@@ -88,11 +91,12 @@ gate_2.115
 gate_2.115
 mina
 is_animated 0
-move_block all
+no_pass 1
 blocksview 1
 wc 7
 dam 1
 maxsp 0
+editable 16
 visibility 50
 magicmap black
 end

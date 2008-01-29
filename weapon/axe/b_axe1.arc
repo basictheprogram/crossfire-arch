@@ -10,6 +10,7 @@ materialname bronze
 dam 3
 weight 6000
 value 5
+editable 1024
 attacktype 1
 weapontype 3
 is_thrown 1

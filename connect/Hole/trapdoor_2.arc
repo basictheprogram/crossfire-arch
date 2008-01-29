@@ -9,6 +9,7 @@ mina
 move_on walk
 no_pick 1
 weight 999999
+editable 2
 visibility 50
 magicmap black
 end

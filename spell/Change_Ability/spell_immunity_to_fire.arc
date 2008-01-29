@@ -1,6 +1,5 @@
 # Obsolete spell - here for backward compatibility
 Object spell_immunity_to_fire
-anim_suffix spellcasting
 name immunity to fire
 name_pl immunity to fire
 level 10

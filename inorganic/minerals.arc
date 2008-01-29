@@ -9,6 +9,7 @@ value 40
 resist_fire -100
 
 weight 2500
+editable 2048
 magicmap brown
 name_pl bottles
 client_type 641
@@ -24,6 +25,7 @@ type 73
 value 10
 color_fg white
 weight 500
+editable 2048
 name_pl piles
 client_type 641
 end
@@ -42,6 +44,7 @@ resist_fire -100
 resist_acid 100
 
 weight 500
+editable 2048
 name_pl piles
 client_type 641
 end
@@ -60,6 +63,7 @@ resist_fire -100
 resist_electricity -100
 resist_acid 100
 weight 500
+editable 2048
 name_pl piles
 client_type 641
 end
@@ -80,6 +84,7 @@ resist_electricity -100
 resist_acid 100
 
 weight 1000
+editable 2048
 name_pl piles
 client_type 641
 end
@@ -94,6 +99,7 @@ type 73
 value 70
 color_fg red
 weight 3000
+editable 2048
 name_pl piles
 client_type 641
 end
@@ -108,6 +114,7 @@ type 73
 value 8
 color_fg grey
 weight 2000
+editable 2048
 name_pl piles
 client_type 641
 end
@@ -124,6 +131,7 @@ color_fg blue
 resist_acid 100
 
 weight 1500
+editable 2048
 name_pl piles
 client_type 641
 end

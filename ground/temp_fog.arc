@@ -16,6 +16,7 @@ type 67
 move_type fly_low
 no_pick 1
 color_fg white
+color_bg khaki
 is_used_up 1
 resist_fire 100
 resist_electricity 100
@@ -38,4 +39,5 @@ changing 1
 visibility 100
 speed 0.001
 blocksview 1
+editable 8
 end

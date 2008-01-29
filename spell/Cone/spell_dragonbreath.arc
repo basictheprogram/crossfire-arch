@@ -1,5 +1,4 @@
 Object spell_dragonbreath
-anim_suffix spellcasting
 name dragonbreath
 name_pl dragonbreath
 face spell_pyromancy.111

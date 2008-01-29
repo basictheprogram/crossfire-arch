@@ -2,13 +2,13 @@ Object castle_a_northwest
 name castle
 type 66
 face castle_a_northwest.x11
-anim_speed 3
-client_anim_random 1
+speed -0.300
 anim
 castle_a_northwest.x11
 castle_a_northwest.x12
 mina
 no_pick 1
+editable 2
 visibility 100
 magicmap grey
 client_type 25012

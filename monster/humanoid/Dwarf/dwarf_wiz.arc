@@ -16,7 +16,6 @@ Pow 18
 sp 50
 maxsp 50
 monster 1
-move_type walk
 unaggressive 1
 alive 1
 ac 10
@@ -29,5 +28,6 @@ speed 0.06
 weight 50000
 level 15
 can_cast_spell 1
+editable 1
 magicmap red
 end

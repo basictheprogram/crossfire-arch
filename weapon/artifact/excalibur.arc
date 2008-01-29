@@ -15,6 +15,7 @@ resist_magic 30
 resist_drain 100
 attacktype 256
 weapontype 1
+editable 5120
 magicmap white
 name_pl Excaliburs
 client_type 100

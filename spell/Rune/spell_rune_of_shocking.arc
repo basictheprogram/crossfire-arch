@@ -1,5 +1,4 @@
 Object spell_rune_of_shocking
-anim_suffix spellcasting
 name rune of shocking
 name_pl rune of shocking
 face spell_pyromancy.111

@@ -1,5 +1,4 @@
 Object spell_minor_healing
-anim_suffix spellcasting
 name minor healing
 name_pl minor healing
 face spell_praying.111

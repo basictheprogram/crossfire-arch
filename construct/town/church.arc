@@ -2,6 +2,7 @@ Object church
 type 66
 face church.x11
 no_pick 1
+editable 2
 visibility 100
 magicmap white
 client_type 25012

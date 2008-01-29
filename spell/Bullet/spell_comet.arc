@@ -1,5 +1,4 @@
 Object spell_comet
-anim_suffix spellcasting
 name comet
 name_pl comet
 face spell_pyromancy.111

@@ -16,8 +16,7 @@ holyave.11A
 holyave.11B
 holyave.11C
 mina
-anim_speed 5
-client_anim_random 1
+speed 0.2
 last_sp 9
 dam 15
 type 15
@@ -31,6 +30,7 @@ resist_magic 30
 resist_drain 100
 weight 25000
 value 220000
+editable 5120
 magicmap black
 name_pl Holy Avengers
 client_type 100

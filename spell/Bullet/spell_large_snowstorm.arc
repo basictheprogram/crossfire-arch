@@ -1,5 +1,4 @@
 Object spell_large_snowstorm
-anim_suffix spellcasting
 name large snowstorm
 name_pl large snowstorm
 face spell_evocation.111

@@ -1,5 +1,4 @@
 Object spell_negaball
-anim_suffix spellcasting
 name negative energy ball
 name_pl negative energy balls
 face spell_evocation.111

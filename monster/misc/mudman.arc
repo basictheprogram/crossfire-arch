@@ -8,7 +8,6 @@ mudman.111
 mudman.112
 mina
 monster 1
-move_type walk
 Str 12
 Dex 15
 Con 20
@@ -28,18 +27,22 @@ attacktype 7169
 resist_poison 100
 resist_slow 100
 resist_paralyze 100
+
 resist_cold 50
 resist_acid 50
-level 29
+
+level 18
 speed 0.1
 weight 100000
 run_away 10
+can_use_wand 1
 can_use_bow 1
 can_use_ring 1
 can_use_shield 1
 can_use_armour 1
 can_use_weapon 1
 can_cast_spell 1
+editable 1
 body_finger 2
 body_torso 1
 body_head 1

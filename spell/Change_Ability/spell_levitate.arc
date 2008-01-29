@@ -1,5 +1,4 @@
 Object spell_levitate
-anim_suffix spellcasting
 name levitate
 name_pl levitate
 face spell_sorcery.111

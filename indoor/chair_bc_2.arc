@@ -9,6 +9,7 @@ material 16
 materialname satin covered wood
 dam 5
 nrof 1
+editable 128
 magicmap brown
 name_pl chairs
 client_type 8002
@@ -27,6 +28,7 @@ material 16
 materialname satin covered wood
 dam 5
 nrof 1
+editable 128
 magicmap brown
 name_pl chairs
 client_type 8002
@@ -45,6 +47,7 @@ material 16
 materialname satin covered wood
 dam 5
 nrof 1
+editable 128
 magicmap brown
 name_pl chairs
 client_type 8002
@@ -63,6 +66,7 @@ material 16
 materialname satin covered wood
 dam 5
 nrof 1
+editable 128
 magicmap brown
 name_pl chairs
 client_type 8002

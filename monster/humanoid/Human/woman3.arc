@@ -16,7 +16,6 @@ Int 12
 Str 10
 Dex 10
 monster 1
-move_type walk
 unaggressive 1
 alive 1
 ac 10
@@ -30,8 +29,10 @@ weight 50000
 level 2
 will_apply 2
 pick_up 24
+can_apply 25
 can_use_scroll 1
 can_use_skill 1
+can_use_wand 1
 can_use_rod 1
 can_cast_spell 1
 can_use_bow 1
@@ -39,6 +40,7 @@ can_use_ring 1
 can_use_shield 1
 can_use_armour 1
 can_use_weapon 1
+editable 1
 magicmap khaki
 body_skill 1
 body_finger 2

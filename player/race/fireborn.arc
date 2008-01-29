@@ -69,6 +69,7 @@ resist_fire 100
 resist_poison 100
 resist_cold -30
 resist_ghosthit -50
+editable 0
 # Do they have shoulders?  Or waists?  Or wrists?
 body_range 1
 body_neck 1
@@ -76,9 +77,6 @@ body_neck 2
 body_skill 1
 body_finger 4
 glow_radius 4
-maxhp 30
-maxsp 30
-maxgrace 30
 end
 Object fireborn_player_force
 name Fireborn_Force

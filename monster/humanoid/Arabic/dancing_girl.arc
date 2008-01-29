@@ -9,7 +9,6 @@ dancing_girl.113
 mina
 alive 1
 monster 1
-move_type walk
 no_pick 1
 hp 10
 maxhp 10
@@ -25,8 +24,10 @@ speed 0.5
 weight 100000
 unaggressive 1
 can_use_rod 1
+can_use_wand 1
 can_use_weapon 1
 can_use_bow 1
+editable 1
 body_arm 2
 body_range 1
 randomitems dancing_girl

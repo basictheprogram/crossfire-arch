@@ -1,5 +1,4 @@
 Object spell_magic_mapping
-anim_suffix spellcasting
 name magic mapping
 name_pl magic mapping
 face spell_sorcery.111

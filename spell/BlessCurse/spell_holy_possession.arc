@@ -1,5 +1,4 @@
 Object spell_holy_possession
-anim_suffix spellcasting
 name holy possession
 name_pl holy possession
 face spell_praying.111

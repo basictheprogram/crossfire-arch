@@ -3,7 +3,6 @@ name unicorn
 randomitems unicorn
 race faerie
 monster 1
-move_type walk
 sleep 1
 Wis 18
 face unicorn.x31
@@ -19,7 +18,7 @@ unicorn.x73
 mina
 level 6
 Con 8
-Pow 15
+Pow 15 
 can_cast_spell 1
 maxsp 50
 sp 50
@@ -42,6 +41,7 @@ no_pick 1
 speed -0.07
 weight 800000
 run_away 5
+editable 1
 end
 More
 Object unicorn_2
@@ -58,7 +58,6 @@ unicorn.x72
 unicorn.x73
 mina
 monster 1
-move_type walk
 x 1
 alive 1
 no_pick 1

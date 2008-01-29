@@ -1,5 +1,4 @@
 Object spell_build_fireball_wall
-anim_suffix spellcasting
 name build fireball wall
 name_pl build fireball wall
 face spell_pyromancy.111
@@ -29,5 +28,5 @@ normal fireballs.  The wall can be torn down
 by creatures, and will eventually expire of
 its own accord.
 endmsg
-move_block all
+no_pass 1
 end

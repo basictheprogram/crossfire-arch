@@ -10,7 +10,6 @@ bone_head.113
 bone_head.112
 mina
 monster 1
-move_type walk fly_low
 sleep 1
 friendly 1
 Wis 20
@@ -18,8 +17,9 @@ no_pick 1
 alive 1
 sleep 1
 undead 1
+move_type fly_low
 exp 3500
-level 100
+level 15
 attacktype 17
 resist_magic 100
 resist_cold 100
@@ -40,5 +40,6 @@ run_away 15
 can_cast_spell 1
 can_see_in_dark 1
 attack_movement 1
+editable 1
 magicmap grey
 end

@@ -9,14 +9,14 @@ anim
 idaten.111
 idaten.112
 mina
-anim_speed 3
-client_anim_random 1
+speed 0.3
 exp 20
 value 50000
 weight 5000
 type 99
 material 8
 resist_physical 3
+editable 5120
 magicmap black
 body_foot -2
 item_power 25

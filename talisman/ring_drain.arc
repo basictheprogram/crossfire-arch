@@ -9,14 +9,15 @@ ring_drain.113
 ring_drain.114
 mina
 color_fg black
+color_bg khaki
 value 10000
 weight 40
 type 70
 material 2
 resist_drain 100
+editable 6144
 nrof 1
-anim_speed 10
-client_anim_random 1
+speed 0.1
 client_type 390
 body_finger -1
 item_power 4

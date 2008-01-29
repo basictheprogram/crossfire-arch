@@ -1,5 +1,4 @@
 Object spell_protection_from_depletion
-anim_suffix spellcasting
 name protection from depletion
 name_pl protection from depletion
 face spell_praying.111

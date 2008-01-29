@@ -12,6 +12,7 @@ value 6000
 material 8
 materialname white leather
 weight 100
+editable 1024
 magicmap white
 body_hand -2
 end
@@ -30,6 +31,7 @@ value 42000
 material 2
 materialname white steel
 weight 200
+editable 1024
 magicmap white
 body_hand -2
 end

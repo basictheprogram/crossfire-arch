@@ -15,6 +15,7 @@ material 2
 hp 20
 maxhp 20
 speed 0.2
+editable 2048
 name_pl horns
 startequip 1
 client_type 721

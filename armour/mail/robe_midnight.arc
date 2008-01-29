@@ -10,8 +10,7 @@ robe_midnight.111
 robe_midnight.112
 robe_midnight.113
 mina
-anim_speed 10
-client_anim_random 1
+speed 0.1
 magicmap black
 ac 5
 Dex 1
@@ -30,6 +29,7 @@ magic 5
 weight 5000
 value 100000
 material 128
+editable 5120
 body_torso -1
 item_power 25
 end

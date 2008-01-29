@@ -1,5 +1,4 @@
 Object spell_protection_from_confusion
-anim_suffix spellcasting
 name protection from confusion
 name_pl protection from confusion
 face spell_praying.111

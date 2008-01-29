@@ -8,20 +8,20 @@ elem_earth.111
 elem_earth.112
 mina
 monster 1
-move_type walk
 alive 1
-ac 6
-wc 10
+ac 5
+wc 8
 dam 50
 hp 280
 maxhp 280
 speed -0.08
-exp 4000
+exp 250
 weight 100000
-level 9
+level 8
 resist_physical 70
 resist_cold 50
 resist_blind 100
 attacktype 1
 resist_fire -60
+editable 1
 end

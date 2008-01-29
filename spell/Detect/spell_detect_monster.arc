@@ -1,5 +1,4 @@
 Object spell_detect_monster
-anim_suffix spellcasting
 name detect monster
 name_pl detect monster
 face spell_evocation.111

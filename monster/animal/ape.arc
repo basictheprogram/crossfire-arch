@@ -11,16 +11,15 @@ ape.171
 ape.172
 mina
 monster 1
-move_type walk
 sleep 1
 no_pick 1
 alive 1
-exp 1400
+exp 600
 level 7
-ac 4
-wc 11
-hp 100
-maxhp 100
+ac 0
+wc 5
+hp 160
+maxhp 160
 Con 2
 Wis 6
 Str 24
@@ -32,5 +31,7 @@ resist_electricity 30
 resist_physical 20
 weight 90000
 run_away 35
+can_apply 24
+editable 1
 magicmap brown
 end

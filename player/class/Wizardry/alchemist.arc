@@ -22,6 +22,7 @@ Con -1
 Int 3
 Wis 0
 Pow 1
+editable 0
 end
 Object talisman_alchemist
 name Alchemist's talisman
@@ -31,6 +32,7 @@ weight 1000
 value 3000
 nrof 1
 material 12
+editable 2048
 path_attuned 16896
 client_type 451
 body_skill -1

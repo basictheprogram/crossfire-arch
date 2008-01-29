@@ -1,5 +1,4 @@
 Object spell_confusion
-anim_suffix spellcasting
 name confusion
 name_pl confusion
 face spell_sorcery.111

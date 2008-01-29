@@ -10,8 +10,7 @@ gram.112
 gram.113
 gram.114
 mina
-anim_speed 10
-client_anim_random 1
+speed 0.1
 material 2
 dam 18
 exp 1
@@ -23,6 +22,7 @@ weapontype 1
 resist_ghosthit 30
 resist_fear 30
 luck 1
+editable 5120
 magicmap black
 name_pl Grams
 client_type 100

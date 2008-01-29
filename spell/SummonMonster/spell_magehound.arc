@@ -1,5 +1,4 @@
 Object spell_magehound
-anim_suffix spellcasting
 name magehound
 name_pl magehounds
 face spell_summoner.111

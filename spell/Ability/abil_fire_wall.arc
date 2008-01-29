@@ -1,5 +1,4 @@
 Object abil_create_fire_wall
-anim_suffix spellcasting
 name create fire wall ability
 name_pl create fire wall ability
 level 6
@@ -19,5 +18,5 @@ dam_modifier 3
 maxsp 8
 attacktype 4
 range 2
-move_block all
+no_pass 1
 end

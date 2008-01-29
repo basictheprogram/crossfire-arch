@@ -1,5 +1,4 @@
 Object spell_magic_missile
-anim_suffix spellcasting
 name magic missile
 name_pl magic missile
 face spell_sorcery.111

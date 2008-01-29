@@ -9,6 +9,7 @@ earthwall.113
 blank.111
 mina
 is_animated 0
+color_bg yellow
 tear_down 1
 hp 24
 maxhp 24
@@ -22,9 +23,11 @@ resist_confusion 100
 resist_acid 100
 resist_drain 100
 no_pick 1
-move_block all
+no_pass 1
 blocksview 1
 alive 1
 level 1
+pass_thru 1
 map_layer living
+editable 768
 end

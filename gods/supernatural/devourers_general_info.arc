@@ -6,4 +6,5 @@ msg
 You feel a bond with all things which are
 undead.
 endmsg
+editable 0
 end

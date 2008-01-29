@@ -4,7 +4,8 @@ face wall_0.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_1_2
@@ -13,7 +14,8 @@ face wall_1.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_1_4
@@ -22,14 +24,8 @@ face wall_2.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
-visibility 100
-end
-Object wall_door_1_4
-name doorway
-face wall_door_1.111
-color_fg brown
-no_pick 1
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_2_2_1
@@ -38,7 +34,8 @@ face wall_3.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_1_1
@@ -47,7 +44,8 @@ face wall_4.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_2_1_1
@@ -56,14 +54,8 @@ face wall_5.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
-visibility 100
-end
-Object wall_door_2_1_1
-name doorway
-face wall_door_0.111
-color_fg brown
-no_pick 1
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_2_2_2
@@ -72,7 +64,8 @@ face wall_6.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_3_2
@@ -81,7 +74,8 @@ face wall_7.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_1_3
@@ -90,7 +84,8 @@ face wall_8.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_2_2_4
@@ -99,7 +94,8 @@ face wall_9.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_2_1_2
@@ -108,7 +104,8 @@ face wall_A.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_3_1
@@ -117,7 +114,8 @@ face wall_B.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_2_2_3
@@ -126,7 +124,8 @@ face wall_C.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_3_4
@@ -135,7 +134,8 @@ face wall_D.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_3_3
@@ -144,7 +144,8 @@ face wall_E.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_4
@@ -153,7 +154,8 @@ face wall_F.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_1_2_ruin
@@ -162,7 +164,8 @@ face wall_1_ruin.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_1_4_ruin
@@ -171,7 +174,8 @@ face wall_2_ruin.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_1_1_ruin
@@ -180,7 +184,8 @@ face wall_4_ruin.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 Object wall_1_3_ruin
@@ -189,7 +194,8 @@ face wall_8_ruin.111
 color_fg brown
 blocksview 1
 no_pick 1
-move_block all
+no_pass 1
+editable 512
 visibility 100
 end
 

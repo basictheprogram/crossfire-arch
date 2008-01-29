@@ -1,5 +1,4 @@
 Object spell_protection_from_attack
-anim_suffix spellcasting
 name protection from attack
 name_pl protection from attack
 face spell_praying.111

@@ -1,5 +1,4 @@
 Object spell_medium_snowstorm
-anim_suffix spellcasting
 name medium snowstorm
 name_pl medium snowstorm
 face spell_evocation.111

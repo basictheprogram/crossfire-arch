@@ -7,6 +7,7 @@ slaying serp_skin
 food 3
 no_pick 1
 move_on walk
+editable 64
 visibility 100
 color_fg black
 end

@@ -1,5 +1,4 @@
 Object spell_strength
-anim_suffix spellcasting
 name strength
 name_pl strength
 face spell_sorcery.111

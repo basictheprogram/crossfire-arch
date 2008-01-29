@@ -5,8 +5,7 @@ stove.111
 stove.112
 stove.113
 mina
-anim_speed 5
-client_anim_random 1
+speed -0.2
 glow_radius 1
 no_pick 1
 type 122
@@ -16,6 +15,7 @@ container 800000
 is_cauldron 1
 Str 0
 value 18000
+editable 128
 color_fg black
 name_pl stoves
 client_type 51

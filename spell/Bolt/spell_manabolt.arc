@@ -1,5 +1,4 @@
 Object spell_manabolt
-anim_suffix spellcasting
 name mana bolt
 name_pl mana bolts
 face spell_evocation.111

@@ -9,6 +9,7 @@ no_pick 1
 move_slow walk
 move_slow_penalty 1
 is_wooded 1
+editable 8
 smoothlevel 45
 smoothface cyangrass.111 cyangrass_S.111
 end
@@ -23,6 +24,7 @@ no_pick 1
 move_slow walk
 move_slow_penalty 1
 is_wooded 1
+editable 8
 smoothlevel 45
 smoothface cyangrass.111 cyangrass_S.111
 end

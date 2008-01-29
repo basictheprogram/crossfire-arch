@@ -34,10 +34,10 @@ invisible 0
 color_fg blue
 speed 0.2
 type 40
-move_type walk
 no_pick 1
 maxsp 1
-move_on walk -fly_low
+move_on walk
+editable 32
 visibility 50
 end
 Object smover_1
@@ -55,10 +55,10 @@ color_fg blue
 speed -0.4
 invisible 0
 type 40
-move_type walk
 no_pick 1
 sp 1
-move_on walk -fly_low
+move_on walk
+editable 32
 visibility 50
 end
 Object smover_2
@@ -78,10 +78,10 @@ color_fg blue
 invisible 0
 speed -0.4
 type 40
-move_type walk
 no_pick 1
 sp 2
-move_on walk -fly_low
+move_on walk
+editable 32
 visibility 50
 end
 Object smover_3
@@ -99,10 +99,10 @@ invisible 0
 color_fg blue
 speed -0.4
 type 40
-move_type walk
 no_pick 1
 sp 3
-move_on walk -fly_low
+move_on walk
+editable 32
 visibility 50
 end
 Object smover_4
@@ -122,10 +122,10 @@ mina
 color_fg blue
 speed -0.4
 type 40
-move_type walk
 no_pick 1
 sp 4
-move_on walk -fly_low
+move_on walk
+editable 32
 visibility 50
 end
 Object smover_5
@@ -143,10 +143,10 @@ mina
 color_fg blue
 speed -0.4
 type 40
-move_type walk
 no_pick 1
 sp 5
-move_on walk -fly_low
+move_on walk
+editable 32
 visibility 50
 end
 Object smover_6
@@ -166,10 +166,10 @@ mina
 color_fg blue
 speed -0.4
 type 40
-move_type walk
 no_pick 1
 sp 6
-move_on walk -fly_low
+move_on walk
+editable 32
 visibility 50
 end
 Object smover_7
@@ -187,10 +187,10 @@ mina
 color_fg blue
 speed -0.4
 type 40
-move_type walk
 no_pick 1
 sp 7
-move_on walk -fly_low
+move_on walk
+editable 32
 visibility 50
 end
 Object smover_8
@@ -210,9 +210,9 @@ mina
 color_fg blue
 speed -0.4
 type 40
-move_type walk
 no_pick 1
 sp 8
-move_on walk -fly_low
+move_on walk
+editable 32
 visibility 50
 end

@@ -7,7 +7,6 @@ unusual_kobold.111
 unusual_kobold.112
 mina
 monster 1
-move_type walk
 sleep 1
 Str 30
 Dex 30
@@ -28,5 +27,6 @@ resist_cold -100
 carrying 6000
 weight 30000
 is_animated 1
+editable 1
 magicmap brown
 end

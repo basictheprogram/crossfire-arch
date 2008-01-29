@@ -13,5 +13,6 @@ weight 20000
 nrof 1
 value 10
 material 8
+editable 1024
 body_torso -1
 end

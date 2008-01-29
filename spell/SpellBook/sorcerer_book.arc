@@ -7,6 +7,7 @@ skill literacy
 material 1
 value 20
 weight 5000
+editable 2048
 magicmap brown
 nrof 1
 client_type 1001
@@ -24,6 +25,7 @@ skill literacy
 material 1
 value 20
 weight 5000
+editable 2048
 magicmap brown
 nrof 1
 client_type 1001

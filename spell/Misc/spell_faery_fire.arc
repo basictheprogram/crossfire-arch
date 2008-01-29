@@ -1,5 +1,4 @@
 Object spell_faery_fire
-anim_suffix spellcasting
 name faery fire
 name_pl faery fire
 face spell_pyromancy.111

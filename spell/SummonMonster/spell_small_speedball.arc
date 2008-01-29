@@ -1,5 +1,4 @@
 Object spell_small_speedball
-anim_suffix spellcasting
 name small speedball
 name_pl small speedball
 face spell_evocation.111

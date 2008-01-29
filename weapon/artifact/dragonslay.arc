@@ -11,6 +11,7 @@ value 85000
 magic 3
 slaying dragon
 resist_fire 30
+editable 5120
 attacktype 1
 weapontype 1
 magicmap white

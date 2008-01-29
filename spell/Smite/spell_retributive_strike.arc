@@ -1,5 +1,4 @@
 Object spell_retributive_strike
-anim_suffix spellcasting
 name retributive strike
 name_pl retributive strike
 face spell_praying.111

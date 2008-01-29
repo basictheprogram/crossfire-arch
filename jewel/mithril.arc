@@ -10,12 +10,12 @@ mithril.113
 mithril.114
 mina
 nrof 1
-anim_speed 5
-client_anim_random 1
+speed 0.2
 value 800
 weight 50
 material 2
 materialname mithril
+editable 2048
 identified 1
 magicmap grey
 name_pl mithril crystals

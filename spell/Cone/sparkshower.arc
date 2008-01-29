@@ -12,11 +12,12 @@ sparkshower.112
 sparkshower.113
 mina
 anim_speed 1.0
-speed 0.075
+speed 0.075 
 wc -30
 dam 1
 move_type fly_low
 glow_radius 4
 no_pick 1
 attacktype 14
+editable 0
 end

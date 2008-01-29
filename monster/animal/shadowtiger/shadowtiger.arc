@@ -35,9 +35,9 @@ blank.111
 mina
 exp 100000
 monster 1
-move_type walk fly_low
 alive 1
 no_pick 1
+move_type fly_low
 see_invisible 1
 Con 30
 maxhp 2000
@@ -60,6 +60,7 @@ speed -0.3
 weight 2000000
 run_away 2
 attack_movement 3
+editable 1
 color_fg black
 end
 More

@@ -1,5 +1,4 @@
 Object abil_medium_fireball
-anim_suffix spellcasting
 name medium fireball ability
 name_pl medium fireball ability
 level 3

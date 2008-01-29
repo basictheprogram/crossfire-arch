@@ -9,4 +9,5 @@ no_pick 1
 move_slow walk
 move_slow_penalty 10
 blocksview 1
+editable 8
 end

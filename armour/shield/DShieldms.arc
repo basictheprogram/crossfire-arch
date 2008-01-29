@@ -12,9 +12,8 @@ DShield.111
 DShield.112
 DShield.111
 DShield.113
-mina
-anim_speed 4
-client_anim_random 1
+mina 
+speed 0.25
 Cha -5
 msg
   There is a powerful evil spirit in the
@@ -30,6 +29,7 @@ ac 7
 resist_physical 15
 weight 25000
 value 300000
+editable 5120
 magicmap black
 body_arm -1
 item_power 10

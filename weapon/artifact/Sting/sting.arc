@@ -12,14 +12,14 @@ sting.114
 sting.113
 sting.112
 mina
-anim_speed 10
-client_anim_random 1
+speed 0.1
 material 2
 dam 5
 magic 3
 weight 6000
 value 42000
 slaying troll
+editable 5120
 attacktype 1
 weapontype 2
 magicmap grey

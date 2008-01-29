@@ -17,5 +17,6 @@ is_animated 0
 invisible 1
 no_pick 1
 move_on walk
+editable 32
 other_arch spell_transference
 end

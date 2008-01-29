@@ -1,5 +1,4 @@
 Object spell_small_manaball
-anim_suffix spellcasting
 name small manaball
 name_pl small manaball
 face spell_evocation.111

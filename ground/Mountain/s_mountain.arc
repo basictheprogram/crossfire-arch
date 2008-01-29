@@ -10,5 +10,6 @@ blocksview 1
 is_hilly 1
 move_slow walk
 move_slow_penalty 8
+editable 8
 is_floor 1
 end

@@ -37,10 +37,10 @@ level 117
 attacktype 66332
 pick_up 24
 will_apply 2
+can_apply 25
 alive 1
 no_pick 1
 monster 1
-move_type walk
 see_invisible 1
 unaggressive 1
 can_cast_spell 1
@@ -48,9 +48,11 @@ can_use_scroll 1
 can_use_bow 1
 can_use_rod 1
 can_use_skill 1
+can_use_wand 1
 can_use_ring 1
 sleep 1
 color_fg white
+editable 1
 body_finger 2
 body_range 1
 randomitems all_spell_skills

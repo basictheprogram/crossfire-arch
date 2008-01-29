@@ -1,5 +1,5 @@
 # This is actually set up as a cone effect.  IT basically persists
-# and does a little amount of damage.
+# and does a little amount of damage. 
 Object chaos
 type 102
 subtype 7
@@ -26,6 +26,7 @@ speed 1
 no_pick 1
 attacktype 262144
 dam 2
+editable 8
 is_floor 1
 end
 #
@@ -55,5 +56,6 @@ speed 1
 no_pick 1
 attacktype 262144
 dam 10
+editable 8
 is_floor 1
 end

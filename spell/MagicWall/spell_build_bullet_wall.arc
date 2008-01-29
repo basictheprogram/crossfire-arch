@@ -1,5 +1,4 @@
 Object spell_build_bullet_wall
-anim_suffix spellcasting
 name build bullet wall
 name_pl build bullet wall
 face spell_evocation.111
@@ -28,5 +27,5 @@ magic bullets, as per the magic bullet spell.
 The bullet wall itself can be torn down, and
 will eventually expire on its own.
 endmsg
-move_block all
+no_pass 1
 end

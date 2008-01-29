@@ -1,5 +1,4 @@
 Object abil_slow
-anim_suffix spellcasting
 name slow ability
 name_pl slow ability
 level 1

@@ -1,5 +1,4 @@
 Object spell_forked_lightning
-anim_suffix spellcasting
 name forked lightning
 name_pl forked lightnings
 face spell_praying.111

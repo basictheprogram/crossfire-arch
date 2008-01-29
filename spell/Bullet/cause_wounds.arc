@@ -14,4 +14,5 @@ move_on walk fly_low
 speed 1
 wc -30
 move_type fly_low
+editable 0
 end

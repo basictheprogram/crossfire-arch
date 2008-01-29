@@ -6,10 +6,10 @@ anim
 barrack_u.x11
 barrack_u.x12
 mina
-anim_speed 10
-client_anim_random 1
+speed -0.1
 magicmap brown
 no_pick 1
+editable 2
 visibility 100
 client_type 25012
 end
@@ -22,8 +22,7 @@ anim
 barrack_u.x11
 barrack_u.x12
 mina
-anim_speed 10
-client_anim_random 1
+speed -0.1
 magicmap brown
 y 1
 no_pick 1

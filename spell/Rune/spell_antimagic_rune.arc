@@ -1,5 +1,4 @@
 Object spell_antimagic_rune
-anim_suffix spellcasting
 name antimagic rune
 name_pl antimagic rune
 face spell_sorcery.111

@@ -10,8 +10,7 @@ mina
 Str 2
 Con 2
 dam 30
-anim_speed 4
-client_anim_random 1
+speed 0.250000
 type 15
 resist_cold 75
 attacktype 5
@@ -22,6 +21,7 @@ value 220000
 weight 25000
 magic 3
 last_sp 9
+editable 5120
 name_pl Lava Slashers
 client_type 100
 body_arm -2

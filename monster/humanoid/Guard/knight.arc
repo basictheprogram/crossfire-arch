@@ -13,7 +13,6 @@ knight.115
 mina
 alive 1
 monster 1
-move_type walk
 sleep 1
 Wis 15
 see_invisible 1
@@ -38,4 +37,5 @@ level 10
 weight 150000
 Str 25
 can_cast_spell 1
+editable 1
 end

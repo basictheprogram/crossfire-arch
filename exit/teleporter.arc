@@ -11,5 +11,6 @@ teleporter.111
 teleporter.112
 teleporter.113
 mina
+editable 2
 visibility 100
 end

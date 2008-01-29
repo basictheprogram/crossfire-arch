@@ -1,5 +1,4 @@
 Object spell_command_undead
-anim_suffix spellcasting
 name command undead
 name_pl command undead
 face spell_praying.111

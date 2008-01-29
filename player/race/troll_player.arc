@@ -57,6 +57,7 @@ Cha -4
 resist_fire -30
 resist_cold 30
 path_repelled 2
+editable 0
 magicmap blue
 body_range 1
 body_arm 2
@@ -71,9 +72,6 @@ body_hand 2
 body_wrist 2
 body_waist 1
 body_leg 2
-maxhp 30
-maxsp 30
-maxgrace 30
 end
 Object troll_player_force
 name troll_force

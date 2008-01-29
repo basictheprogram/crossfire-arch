@@ -1,5 +1,4 @@
 Object spell_charm_monsters
-anim_suffix spellcasting
 name charm monsters
 name_pl charm monsters
 face spell_summoner.111

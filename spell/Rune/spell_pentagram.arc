@@ -1,5 +1,4 @@
 Object spell_pentagram
-anim_suffix spellcasting
 name pentagram
 name_pl pentagram
 type 101

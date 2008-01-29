@@ -13,14 +13,13 @@ raas.131
 mina
 race demon
 monster 1
-move_type walk
 Wis 10
 no_pick 1
 alive 1
-exp 4000
-ac 4
+exp 700
+ac 0
 resist_physical 20
-wc 10
+wc 1
 dam 25
 Int 0
 maxsp 5
@@ -36,5 +35,6 @@ weight 200000
 run_away 15
 attacktype 1
 attack_movement 5
+editable 1
 color_fg black
 end

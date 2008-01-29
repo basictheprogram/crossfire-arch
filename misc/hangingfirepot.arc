@@ -7,10 +7,10 @@ hangingfirepot.112
 hangingfirepot.113
 hangingfirepot.114
 mina
-anim_speed 3
-client_anim_random 1
+speed -0.30
 glow_radius 3
 no_pick 1
+editable 128
 color_fg red
 end
 

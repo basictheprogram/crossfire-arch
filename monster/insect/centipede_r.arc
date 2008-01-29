@@ -15,19 +15,19 @@ centipede_r.112
 centipede_r.113
 mina
 monster 1
-move_type walk
 sleep 1
 Wis 5
 can_see_in_dark 1
 alive 1
-exp 65
+exp 32
 ac 10
-wc 11
+wc 8
 dam 10
 hp 50
 maxhp 50
 Con 1
 level 4
 weight 5000
+editable 1
 magicmap red
 end

@@ -1,5 +1,4 @@
 Object abil_create_frost_wall
-anim_suffix spellcasting
 name create frost wall ability
 name_pl create frost wall ability
 level 8
@@ -20,5 +19,5 @@ dam_modifier 3
 maxsp 8
 attacktype 16
 range 2
-move_block all
+no_pass 1
 end

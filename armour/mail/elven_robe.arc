@@ -16,6 +16,7 @@ food 4
 weight 5000
 value 3000
 material 128
+editable 5120
 body_torso -1
 item_power 13
 end
